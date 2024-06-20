@@ -3,12 +3,7 @@
 code crawl từ web hocmai 
 
 Cấu trúc thư mục (Thư mục này độc lập với DV-Final-Crawler)
- {'diemchuan2018': (3495, 8),
- 'diemchuan2019': (5706, 8),
- 'diemchuan2020': (4924, 8),
- 'diemchuan2021': (6561, 8),
- 'diemchuan2022': (7991, 8),
- 'diemchuan2023': (7947, 8)}
+
 
 ```
 CRAWLER-HOCMAI/
