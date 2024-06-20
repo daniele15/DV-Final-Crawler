@@ -1,0 +1,310 @@
+﻿url,university_code,university_name
+https://huongnghiep.hocmai.vn/diem-truong/dh-tan-tao/,TTU,ĐH Tân Tạo
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-fpt/,FPT,Đại Học FPT
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-vinh/,VU,Đại Học Vinh
+https://huongnghiep.hocmai.vn/diem-truong/nhac-vien-tphcm/,HCMCONS,Nhạc Viện TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-hoa-lu/,HLUV,Đại Học Hoa Lư
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-hoa-sen/,HSU,Đại Học Hoa Sen
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-phenikaa/,TTUH,Đại Học Phenikaa
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-toa-an/,VCA,Học viện Tòa án
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-an-giang/,AGU,Đại Học An Giang
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-dong-a/,DAU,Đại Học Đông Á
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-phu-yen/,PYU,Đại Học Phú Yên
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-quy-nhon/,QNU,Đại Học Quy Nhơn
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-tay-do/,TDU,Đại Học Tây Đô
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-tra-vinh/,TVU,Đại Học Trà Vinh
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-ha-tinh/,HTU,Đại Học Hà Tĩnh
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-ha-long/,HLU,Đại Học Hạ Long
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-ha-noi/,HANU,Đại Học Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-sao-do/,SDU,Đại học Sao Đỏ
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-sai-gon/,SGU,Đại Học Sài Gòn
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-nha-trang/,NTU,Đại Học Nha Trang
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-dai-nam/,DNU,Đại Học Đại Nam
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-noi-vu/,HUHA,Đại Học Nội Vụ
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-hoa-binh/,HBU,Đại Học Hòa Bình
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-mo-tphcm/,OU,Đại Học Mở TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-cuu-long/,MKU,Đại Học Cửu Long
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-can-tho/,CTU,Đại Học Cần Thơ
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-da-lat/,DLU,Đại Học Đà Lạt
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-tan-trao/,TTU,Đại học Tân Trào
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-tay-bac/,UTB,Đại Học Tây Bắc
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-kinh-bac/,UKB,Đại Học Kinh Bắc
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-dong-do/,HDIU,Đại Học Đông Đô
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-dong-nai/,DNU,Đại Học Đồng Nai
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-quang-trung/,QTU,Đại Học Quang Trung
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-quang-nam/,QNU,Đại Học Quảng Nam
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-thai-binh/,TBU,Đại Học Thái Bình
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-thang-long/,TLU,Đại Học Thăng Long
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-van-hien/,VHU,Đại Học Văn Hiến
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-bac-lieu/,BLU,Đại Học Bạc Liêu
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-hang-hai/,VMU,Đại Học Hàng Hải
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-chu-van-an/,CVAUNI,Đại Học Chu Văn An
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-hai-quan/,HVHQ,Học Viện Hải Quân
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-tai-chinh/,AOF,Học Viện Tài Chính
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-gia-dinh/,GDU,Đại Học Gia Định
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-ngan-hang/,BA,Học Viện Ngân Hàng
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-thanh-do/,TDU,Đại học Thành Đô
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-kien-giang/,KGU,Đại học Kiên Giang
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-khanh-hoa/,UKH,Đại học Khánh Hòa
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-y-ha-noi/,HMU,Đại Học Y Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-y-khoa-vinh/,VMU,Đại Học Y Khoa Vinh
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-lac-hong/,LHU,Đại Học Lạc Hồng
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-phan-thiet/,UPT,Đại Học Phan Thiết
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-kinh-te-cong-nghe-thai-nguyen/,VBU,Đại học Kinh tế - Công nghệ Thái Nguyên
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-ngoai-giao/,DAV,Học Viện Ngoại Giao
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-cong-doan/,TUU,Đại Học Công Đoàn
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-luat-tphcm/,HCMUL,Đại Học Luật TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-hai-phong/,HPU,Đại Học Hải Phòng
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-tien-giang/,TGU,Đại Học Tiền Giang
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-tay-nguyen/,TNU,Đại Học Tây Nguyên
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-bien-phong/,HVBP,Học Viện Biên Phòng
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-binh-duong/,BDU,Đại Học Bình Dương
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-quang-binh/,QBU,Đại Học Quảng Bình
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-thanh-dong/,TDU,Đại Học Thành Đông
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-hong-duc/,HĐU,Đại Học Hồng Đức
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-ha-hoa-tien/,HHTU,Đại Học Hà Hoa Tiên
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-hai-duong/,UHD,Đại Học Hải Dương
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-dong-thap/,DTHU,Đại Học Đồng Tháp
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-dien-luc/,EPU,Đại Học Điện Lực
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-hung-vuong/,HVU,Đại Học Hùng Vương
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-viet-duc/,VGU,Đại Học Việt Đức
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-trung-vuong/,TVU,Đại Học Trưng Vương
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-nguyen-hue/,NHU,Đại học Nguyễn Huệ
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-nguyen-trai/,NTU,Đại Học Nguyễn Trãi
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-thuong-mai/,TMU,Đại Học Thương Mại
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-nam-can-tho/,NCTU,Đại học Nam Cần Thơ
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-can-bo-tphcm/,HCA,Học viện cán bộ TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-kinh-te-tphcm/,UEH,Đại Học Kinh Tế TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-van-hoa-tphcm/,HCMUC,Đại Học Văn Hóa TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-y-duoc-tphcm/,UMP HCM,Đại Học Y Dược TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-phan-chau-trinh/,PCTU,Đại Học Phan Châu Trinh
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-am-nhac-hue/,HAM,Học Viện Âm Nhạc Huế
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-luat-ha-noi/,HLU,Đại Học Luật Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-nong-lam-tphcm/,NLU,Đại Học Nông Lâm TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/truong-si-quan-phao-binh/,SQPB,Trường Sĩ Quan Pháo Binh
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-su-pham-tphcm/,HCMUE,Đại Học Sư Phạm TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-y-duoc-buon-ma-thuot/,BMTU,Đại học Y Dược Buôn Ma Thuột
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-yersin-da-lat/,YU,Đại Học Yersin Đà Lạt
+https://huongnghiep.hocmai.vn/diem-truong/truong-si-quan-phong-hoa/,CCE,Trường Sĩ Quan Phòng Hóa
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-ngan-hang-tphcm/,HUB,Đại Học Ngân Hàng TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-thu-dau-mot/,TDMU,Đại học Thủ Dầu Một
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-duoc-ha-noi/,HUP,Đại Học Dược Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-kien-truc-tphcm/,UAH,Đại Học Kiến Trúc TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-mo-dia-chat/,HUMG,Đại Học Mỏ Địa Chất
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-my-thuat-tphcm/,HCMUFA,Đại Học Mỹ Thuật TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/truong-si-quan-dac-cong/,OVSF,Trường Sĩ Quan Đặc Công
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-luong-the-vinh/,LTVU,Đại Học Lương Thế Vinh
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-an-ninh-nhan-dan/,VPSU,Đại Học An Ninh Nhân Dân
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-cong-nghe-tphcm/,HUTECH,Đại học Công Nghệ TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-an-ninh-nhan-dan/,PSA,Học Viện An Ninh Nhân Dân
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-ton-duc-thang/,TDTU,Đại Học Tôn Đức Thắng
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-pham-van-dong/,PDU,Đại Học Phạm Văn Đồng
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-thai-binh-duong/,TBDU,Đại Học Thái Bình Dương
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-dan-lap-duy-tan/,DTU,Đại Học Dân Lập Duy Tân
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-cong-nghiep-vinh/,IUV,Đại học Công nghiệp Vinh
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-van-hoa-ha-noi/,HUC,Đại Học Văn Hóa Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-y-te-cong-cong/,HUPH,Đại Học Y Tế Công Cộng
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-kinh-te-nghe-an/,NACE,Đại học Kinh Tế Nghệ An
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-su-pham-ha-noi/,HNUE,Đại Học Sư Phạm Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-vo-truong-toan/,VTTU,Đại Học Võ Trường Toản
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-y-duoc-can-tho/,CTUMP,Đại Học Y Dược Cần Thơ
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-thu-do-ha-noi/,HMU,Đại học Thủ Đô Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-bach-khoa-ha-noi/,HUST,Đại Học Bách Khoa Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-dan-lap-van-lang/,VLU,Đại Học Dân Lập Văn Lang
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-cong-nghiep-tphcm/,IUH,Đại Học Công Nghiệp TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-nguyen-tat-thanh/,NTTU,Đại Học Nguyễn Tất Thành
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-anh-quoc-viet-nam/,BUV,Đại Học Anh Quốc Việt Nam
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-quoc-te-bac-ha/,BHIU,Đại Học Quốc Tế Bắc Hà
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-dau-khi-viet-nam/,PVU,Đại Học Dầu Khí Việt Nam
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-dan-lap-phu-xuan/,PXU,Đại Học Dân Lập Phú Xuân
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-quoc-te-sai-gon/,SIU,Đại Học Quốc Tế Sài Gòn
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-xay-dung-ha-noi/,NUCE,Đại Học Xây Dựng Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-hung-vuong-tphcm/,HVUH,Đại học Hùng Vương - TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-y-duoc-thai-binh/,TBUMP,Đại Học Y Dược Thái Bình
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-kinh-te-quoc-dan/,NEU,Đại Học Kinh Tế Quốc Dân
+https://huongnghiep.hocmai.vn/diem-truong/vien-dai-hoc-mo-ha-noi/,HOU,Viện Đại Học Mở Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-kiem-sat-ha-noi/,HPU,Đại học Kiểm Sát Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-phu-nu-viet-nam/,VWA,Học Viện Phụ Nữ Việt Nam
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-tai-chinh-marketing/,UFM,Đại Học Tài Chính Marketing
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-su-pham-ha-noi-2/,HNUE,Đại Học Sư Phạm Hà Nội 2
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-canh-sat-nhan-dan/,PPA,Học Viện Cảnh Sát Nhân Dân
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-quan-ly-giao-duc/,NAEM,Học Viện Quản Lý Giáo Dục
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-tai-chinh-ke-toan/,UFA,Đại học Tài Chính Kế Toán
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-cong-nghe-sai-gon/,STU,Đại Học Công Nghệ Sài Gòn
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-y-duoc-hai-phong/,HPMU,Đại Học Y Dược Hải Phòng
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-ky-thuat-mat-ma/,ACT,Học Viện Kỹ Thuật Mật Mã
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-kien-truc-ha-noi/,HAU,Đại Học Kiến Trúc Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-canh-sat-nhan-dan/,PPU,Đại Học Cảnh Sát Nhân Dân
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-nong-lam-bac-giang/,BAFU,Đại học Nông Lâm Bắc Giang
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-cong-nghe-dong-a/,EAUT,Đại Học Công Nghệ Đông Á
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-dan-lap-hai-phong/,HU,Đại Học Dân Lập Hải Phòng
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-y-khoa-tokyo-viet-nam/,THUV,Đại học Y khoa Tokyo Việt Nam
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-hang-khong-viet-nam/,VAA,Học Viện Hàng Không Việt Nam
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-my-thuat-viet-nam/,VUFA,Đại Học Mỹ Thuật Việt Nam
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-xay-dung-mien-tay/,MTU,Đại Học Xây Dựng Miền Tây
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-cong-nghiep-ha-noi/,HAUI,Đại Học Công Nghiệp Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-quoc-te-hong-bang/,HIU,Đại Học Quốc Tế Hồng Bàng
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-xay-dung-mien-trung/,MUCE,Đại Học Xây Dựng Miền Trung
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-quan-y-he-dan-su/,VMMA,Học Viện Quân Y - Hệ Dân sự
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-ba-ria-vung-tau/,BVU,Đại Học Bà Rịa – Vũng Tàu
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-rang-ham-mat/,VNU-USSH,USSH - Đại Học Răng – Hàm – Mặt
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-cong-nghe-dong-nai/,DNTU,Đại Học Công Nghệ Đồng Nai
+https://huongnghiep.hocmai.vn/diem-truong/truong-du-lich-dai-hoc-hue/,HUHT,Trường Du Lịch – Đại Học Huế
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-kien-truc-da-nang/,DAU,Đại Học Kiến Trúc Đà Nẵng
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-cong-nghe-van-xuan/,VXUT,Đại Học Công Nghệ Vạn Xuân
+https://huongnghiep.hocmai.vn/diem-truong/dh-tai-nguyen-moi-truong-tphcm/,HCMUNRE,ĐH Tài Nguyên môi trường TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/khoa-y-dai-hoc-quoc-gia-tphcm/,SM,Khoa Y - Đại học Quốc Gia TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-quan-y-he-quan-su/,VMMA,Học Viện Quân Y - Hệ Quân sự
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-san-khau-dien-anh/,MSU,Đại Học Sân Khấu Điện Ảnh
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-quoc-te-mien-dong/,EIU,Đại Học Quốc Tế Miền Đông
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-nong-nghiep-viet-nam/,VNUA,Học Viện Nông Nghiệp Việt Nam
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-cong-nghe-mien-dong/,MUT,Đại học Công nghệ Miền Đông
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-cong-nghiep-viet-tri/,VUI,Đại Học Công Nghiệp Việt Trì
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-dan-lap-phuong-dong/,PDU,Đại Học Dân Lập Phương Đông
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-cong-nghiep-viet-hung/,VIU,Đại Học Công Nghiệp Việt Hung
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-quoc-te-rmit-viet-nam/,RMIT,Đại Học Quốc Tế RMIT Việt Nam
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-my-thuat-cong-nghiep/,UIFA,Đại Học Mỹ Thuật Công Nghiệp
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-cong-nghiep-quang-ninh/,QUI,Đại Học Công Nghiệp Quảng Ninh
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-thuy-loi-co-so-1/,TLU,Đại Học Thủy Lợi (Cơ sở 1)
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-luat-dai-hoc-hue/,UL-HU,HU - Đại học Luật - Đại Học Huế
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-thuy-loi-co-so-2/,TLU,Đại Học Thủy Lợi (Cơ sở 2)
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-the-duc-the-thao-tphcm/,HCUS,Đại Học Thể Dục Thể Thao TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-hau-can-he-dan-su/,MAL,Học Viện Hậu Cần - Hệ Dân sự
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-y-khoa-pham-ngoc-thach/,PNTU,Đại Học Y Khoa Phạm Ngọc Thạch
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-kinh-te-tai-chinh-tphcm/,UEF,Đại Học Kinh Tế -Tài chính TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-su-pham-ky-thuat-vinh/,VUTE,Đại Học Sư Phạm Kỹ Thuật Vinh
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-dieu-duong-nam-dinh/,NDUN,Đại Học Điều Dưỡng Nam Định
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-lam-nghiep-co-so-1/,VNUF,Đại Học Lâm Nghiệp ( Cơ sở 1 )
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-lam-nghiep-co-so-2-phan-hieu-dong-nai/,VNUF,Đại Học Lâm Nghiệp (Cơ sở 2) - Phân hiệu Đồng Nai
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-ngoai-thuong-phia-nam/,FTU2,Đại Học Ngoại Thương (phía Nam)
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-su-pham-ky-thuat-tphcm/,HCMUTE,Đại Học Sư Phạm Kỹ Thuật TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-giao-thong-van-tai-tphcm/,UT-HCMC,HCMC - Đại Học Giao Thông Vận Tải TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-bao-chi-tuyen-truyen/,AJC,Học Viện Báo Chí – Tuyên Truyền
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-chinh-sach-va-phat-trien/,APD,Học Viện Chính Sách và Phát Triển
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-hau-can-he-quan-su/,MAL,Học Viện Hậu Cần - Hệ Quân sự
+https://huongnghiep.hocmai.vn/diem-truong/khoa-y-duoc-dai-hoc-da-nang/,SMP,Khoa Y Dược – Đại Học Đà Nẵng
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-phong-khong-khong-quan/,ADAFA,Học Viện Phòng Không – Không Quân
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-thanh-thieu-nien-viet-nam/,VYA,Học Viện Thanh Thiếu Niên Việt Nam
+https://huongnghiep.hocmai.vn/diem-truong/truong-si-quan-tang-thiet-giap/,MCTAO,Trường Sĩ  Quan Tăng – Thiết Giáp
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-y-duoc-dai-hoc-hue/,HUMP,Đại Học Y Dược – Đại Học Huế
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-san-khau-dien-anh-tphcm/,MSU,"Đại Học Sân Khấu, Điện Ảnh TPHCM"
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-chinh-tri-cong-an-nhan-dan/,HNCTCAND,Học Viện Chính Trị Công An Nhân Dân
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-kinh-te-dai-hoc-hue/,HCE-HU,HU - Đại Học Kinh Tế – Đại Học Huế
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-am-nhac-quoc-gia-viet-nam/,VNAM,Học Viện Âm Nhạc Quốc Gia Việt Nam
+https://huongnghiep.hocmai.vn/diem-truong/khoa-quoc-te-dai-hoc-thai-nguyen/,ISTNU,Khoa Quốc Tế - Đại Học Thái Nguyên
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-kinh-te-cong-nghiep-long-an/,DLA,Đại Học Kinh Tế Công Nghiệp Long An
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-tai-chinh-ngan-hang-ha-noi/,FBU,Đại Học Tài Chính Ngân Hàng Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-ngoai-ngu-tin-hoc-tphcm/,HUFLIT,Đại Học Ngoại Ngữ – Tin Học TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-su-pham-dai-hoc-hue/,HUCE,Đại Học Sư Phạm – Đại Học Huế
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-the-duc-the-thao-bac-ninh/,BNSU,Đại Học Thể Dục Thể Thao Bắc Ninh
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-khoa-hoc-dai-hoc-hue/,HUS,Đại Học Khoa Học – Đại Học Huế
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-nong-lam-dai-hoc-hue/,HUAF,Đại Học Nông Lâm – Đại Học Huế
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-ky-thuat-y-te-hai-duong/,HMTU,Đại Học Kỹ Thuật Y Tế Hải Dương
+https://huongnghiep.hocmai.vn/diem-truong/khoa-cong-nghe-dai-hoc-da-nang/,UD - VKU,VKU - Khoa Công Nghệ – Đại Học Đà Nẵng
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-cong-nghiep-det-may-ha-noi/,HTU,Đại Học Công Nghiệp Dệt May Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-ky-thuat-y-duoc-da-nang/,DNUMTP,Đại học Kỹ thuật Y Dược Đà Nẵng
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-the-duc-the-thao-da-nang/,ĐHTDTTĐN,Đại Học Thể Dục Thể Thao Đà Nẵng
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-su-pham-ky-thuat-hung-yen/,UTEHY,Đại Học Sư Phạm Kỹ Thuật Hưng Yên
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-su-pham-ky-thuat-vinh-long/,VLUTE,Đại Học Sư Phạm Kỹ Thuật Vĩnh Long
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-ngan-hang-phan-vien-bac-ninh/,BA,Học Viện Ngân Hàng Phân Viện Bắc Ninh
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-cong-thuong-tphcm/,HUIT,Đại Học Công Thương TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/truong-si-quan-chinh-tri-he-dan-su/,POC,Trường Sĩ quan Chính trị (hệ dân sự)
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-su-pham-ky-thuat-nam-dinh/,NUTE,Đại Học Sư Phạm Kỹ Thuật Nam Định
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-hanh-chinh-quoc-gia-phia-nam/,NAPA,Học Viện Hành Chính Quốc Gia (phía Nam)
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-kinh-te-ky-thuat-binh-duong/,BETU,Đại Học Kinh Tế Kỹ Thuật Bình Dương
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-my-thuat-cong-nghiep-a-chau/,AUAD,Đại Học Mỹ Thuật Công Nghiệp Á Châu
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-ngoai-ngu-dai-hoc-hue/,UFL-HU,HU - Đại Học Ngoại Ngữ – Đại Học Huế
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-ky-thuat-cong-nghe-can-tho/,CTUT,Đại học Kỹ Thuật Công Nghệ Cần Thơ
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-luat-dai-hoc-quoc-gia-ha-noi/,VNU - UL,UL - Đại Học Luật – Đại Học Quốc Gia Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-cong-nghe-giao-thong-van-tai/,UTT,Đại học Công nghệ Giao thông vận tải
+https://huongnghiep.hocmai.vn/diem-truong/truong-ngoai-ngu-dai-hoc-thai-nguyen/,SFL,Trường Ngoại Ngữ – Đại Học Thái Nguyên
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-kinh-te-ky-thuat-cong-nghiep/,UNETI,Đại Học Kinh Tế Kỹ Thuật Công Nghiệp
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-kinh-doanh-va-cong-nghe-ha-noi/,HUBT,Đại Học Kinh Doanh và Công Nghệ Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-y-duoc-dai-hoc-quoc-gia-ha-noi/,VNU - SMP,SMP - Đại học Y Dược - Đại học Quốc Gia Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-nghe-thuat-dai-hoc-hue/,HU-CA,CA - Đại Học Nghệ Thuật – Đại Học Huế
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-phong-chay-chua-chay-phia-nam/,PCCC,Đại Học Phòng Cháy Chữa Cháy (phía Nam)
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-ngan-hang-phan-vien-phu-yen/,BA,Học Viên Ngân Hàng ( Phân Viện Phú Yên )
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-khoa-hoc-va-cong-nghe-ha-noi/,USTH,Đại Học Khoa Học Và Công Nghệ Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-khoa-hoc-quan-su-he-dan-su/,MSA,Học Viện Khoa Học Quân Sự - Hệ Dân sự
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-su-pham-nghe-thuat-trung-uong/,NUAE,Đại Học Sư Phạm Nghệ Thuật Trung Ương
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-kinh-te-dai-hoc-da-nang/,DUE,Đại Học Kinh Tế – Đại Học Đà Nẵng
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-su-pham-the-ducthe-thao-tphcm/,UPES,Đại Học Sư Phạm Thể DụcThể Thao TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/phan-hieu-dai-hoc-da-nang-tai-kon-tum/,UDCK,Phân Hiệu Đại Học Đà Nẵng tại Kon Tum
+https://huongnghiep.hocmai.vn/diem-truong/phan-hieu-dai-hoc-hue-tai-quang-tri/,HU-QTC,QTC - Phân Hiệu Đại Học Huế tại Quảng Trị
+https://huongnghiep.hocmai.vn/diem-truong/truong-si-quan-khong-quan-he-dai-hoc/,AFOC,Trường Sĩ Quan Không Quân - Hệ Đại học
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-khoa-hoc-quan-su-he-quan-su/,MSA,Học Viện Khoa Học Quân Sự - Hệ Quân sự
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-hanh-chinh-quoc-gia-phia-bac/,NAPA,Học Viện Hành Chính Quốc Gia (phía Bắc)
+https://huongnghiep.hocmai.vn/diem-truong/khoa-giao-duc-the-chat-dai-hoc-hue/,SPR-HU,HU - Khoa Giáo Dục Thể Chất – Đại Học Huế
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-tai-chinh-quan-tri-kinh-doanh/,UFBA,Đại học Tài Chính – Quản Trị Kinh Doanh
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-bach-khoa-dai-hoc-da-nang/,DUT,Đại Học Bách Khoa – Đại Học Đà Nẵng
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-ki-thuat-quan-su-he-dan-su/,MTA,Học Viện Kĩ Thuật Quân Sự - Hệ Dân sự
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-su-pham-dai-hoc-da-nang/,UED,Đại Học Sư Phạm – Đại Học Đà Nẵng
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-ki-thuat-quan-su-he-quan-su/,MTA,Học Viện Kĩ Thuật Quân Sự - Hệ Quân sự
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-cong-nghe-va-quan-ly-huu-nghi/,UTM,Đại Học Công Nghệ và Quản Lý Hữu Nghị
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-y-duoc-dai-hoc-thai-nguyen/,TUMP,Đại Học Y Dược – Đại Học Thái Nguyên
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-y-duoc-hoc-co-truyen-viet-nam/,VUTM,Học Viện Y Dược Học Cổ Truyền Việt Nam
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-van-hoa-nghe-thuat-quan-doi/,MUCA,Đại Học Văn Hóa – Nghệ Thuật Quân Đội
+https://huongnghiep.hocmai.vn/diem-truong/phan-hieu-dai-hoc-y-ha-noi-tai-thanh-hoa/,HMU,Phân hiệu Đại học Y Hà Nội tại Thanh Hóa
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-nong-lam-dai-hoc-thai-nguyen/,TUAF,Đại Học Nông Lâm – Đại Học Thái Nguyên
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-tai-nguyen-va-moi-truong-ha-noi/,HUNRE,Đại học Tài Nguyên và Môi Trường Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/truong-quoc-te-dai-hoc-quoc-gia-ha-noi/,VNU - IS,IS - Trường Quốc Tế – Đại Học Quốc Gia Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-khoa-hoc-dai-hoc-thai-nguyen/,TNUS,Đại Học Khoa Học – Đại Học Thái Nguyên
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-phong-chay-chua-chay-phia-bac/,PCCC,Đại Học Phòng Cháy Chữa Cháy (Phía Bắc)
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-ngoai-thuong-co-so-phia-bac/,FTU,Đại Học Ngoại Thương (Cơ sở phía Bắc)
+https://huongnghiep.hocmai.vn/diem-truong/phan-hieu-dai-hoc-thai-nguyen-tai-lao-cai/,TNU,Phân Hiệu Đại Học Thái Nguyên Tại Lào Cai
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-su-pham-dai-hoc-thai-nguyen/,TUE,Đại Học Sư Phạm – Đại Học Thái Nguyên
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-ngoai-ngu-dai-hoc-da-nang/,UFLS,Đại Học Ngoại Ngữ – Đại Học Đà Nẵng
+https://huongnghiep.hocmai.vn/diem-truong/truong-quan-tri-va-kinh-doanh-dai-hoc-quoc-gia-ha-noi/,HSB,Trường Quản Trị và Kinh Doanh - Đại học Quốc gia Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-su-pham-the-duc-the-thao-ha-noi/,HUPES,Đại Học Sư Phạm Thể Dục Thể Thao Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/khoa-giao-duc-the-chat-dai-hoc-da-nang/,UD,Khoa Giáo dục thể chất - Đại học Đà Nẵng
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-bach-khoa-dai-hoc-quoc-gia-tphcm/,VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-quoc-te-dai-hoc-quoc-gia-tphcm/,HCMIU,Đại Học Quốc Tế – Đại Học Quốc Gia TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-giao-thong-van-tai-co-so-phia-nam/,UTC2,Đại Học Giao Thông Vận Tải (Cơ sở Phía Nam)
+https://huongnghiep.hocmai.vn/diem-truong/phan-hieu-dai-hoc-nong-lam-tp-hcm-tai-gia-lai/,NLU,Phân hiệu Đại học Nông Lâm TP. HCM tại Gia Lai
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-van-hoa-the-thao-va-du-lich-thanh-hoa/,TUCST,"Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa"
+https://huongnghiep.hocmai.vn/diem-truong/truong-si-quan-chinh-tri-dai-hoc-chinh-tri/,POC,Trường Sĩ Quan Chính Trị - Đại Học Chính Trị
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-lao-dong-xa-hoi-co-so-phia-nam/,ULSA2,Đại Học Lao Động – Xã Hội (Cơ sở phía Nam)
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-kinh-te-dai-hoc-quoc-gia-ha-noi/,VNU - UEB,UEB - Đại Học Kinh Tế – Đại Học Quốc Gia Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-giao-duc-dai-hoc-quoc-gia-ha-noi/,VNU - UED,UED - Đại Học Giáo Dục - Đại học Quốc Gia Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-giao-thong-van-tai-co-so-phia-bac/,UTC,Đại Học Giao Thông Vận Tải (Cơ sở Phía Bắc)
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-lao-dong-xa-hoi-co-so-son-tay/,ULSA,Đại Học Lao Động – Xã Hội (Cơ sở Sơn Tây)
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-lao-dong-xa-hoi-co-so-ha-noi/,ULSA,Đại Học Lao Động – Xã Hội (Cơ sở Hà Nội)
+https://huongnghiep.hocmai.vn/diem-truong/truong-si-quan-luc-quan-2-dai-hoc-nguyen-hue/,NHU,Trường Sĩ Quan Lục Quân 2 - Đại học Nguyễn Huệ
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-su-pham-ky-thuat-dai-hoc-da-nang/,UTE,Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-cong-nghe-dai-hoc-quoc-gia-ha-noi/,UET,Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-cong-nghe-buu-chinh-vien-thong-phia-nam/,PTIT,Học Viện Công Nghệ Bưu Chính Viễn Thông (phía Nam)
+https://huongnghiep.hocmai.vn/diem-truong/phan-hieu-dai-hoc-nong-lam-tp-hcm-tai-ninh-thuan/,NLU,Phân hiệu Đại học Nông Lâm TP. HCM tại Ninh Thuận
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-ngoai-ngu-dai-hoc-quoc-gia-ha-noi/,ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-phong-chay-chua-chay-he-dan-su-phia-nam/,PCCC,Đại Học Phòng Cháy Chữa Cháy (Hệ Dân sự Phía Nam)
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-cong-nghe-buu-chinh-vien-thong-phia-bac/,PTIT,Học Viện Công Nghệ Bưu Chính Viễn Thông (Phía Bắc)
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-kinh-te-luat-dai-hoc-quoc-gia-tphcm/,VNUHCM - UEL,UEL - Đại học Kinh Tế – Luật – Đại Học Quốc Gia TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/truong-si-quan-luc-quan-1-dai-hoc-tran-quoc-tuan/,TQT UNI,Trường Sĩ Quan Lục Quân 1 - Đại học Trần Quốc Tuấn
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-khoa-hoc-tu-nhien-dai-hoc-quoc-gia-tphcm/,VNUHCM – US,Đại Học Khoa Học Tự Nhiên – Đại Học Quốc Gia TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-phong-chay-chua-chay-he-dan-su-phia-bac/,PCCC,Đại Học Phòng Cháy Chữa Cháy ( Hệ Dân sự Phía Bắc )
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-cong-nghe-thong-tin-dai-hoc-quoc-gia-tphcm/,VNUHCM - UIT,UIT - Đại Học Công Nghệ Thông Tin – Đại Học Quốc Gia TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-ky-thuat-cong-nghiep-dai-hoc-thai-nguyen/,TNUT,Đại Học Kỹ Thuật Công Nghiệp – Đại Học Thái Nguyên
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-ky-thuat-hau-can-cong-an-nhan-dan-phia-nam/,ĐHKTHCCAND(PN).,Đại Học Kỹ Thuật - Hậu Cần Công An Nhân Dân (Phía Nam)
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-khoa-hoc-tu-nhien-dai-hoc-quoc-gia-ha-noi/,VNU-HUS,HUS - Đại Học Khoa Học Tự Nhiên – Đại Học Quốc Gia Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/truong-si-quan-cong-binh-he-dan-su-dai-hoc-ngo-quyen/,NQU,Trường Sĩ Quan Công Binh - Hệ Dân sự - Đại học Ngô Quyền
+https://huongnghiep.hocmai.vn/diem-truong/vien-nghien-cuu-va-dao-tao-viet-anh-dai-hoc-da-nang/,VNUK,Viện nghiên cứu và đào tạo Việt Anh - Đại học Đà Nẵng
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-ky-thuat-hau-can-cong-an-nhan-dan-phia-bac/,ĐHKTHCCAND,Đại Học Kỹ Thuật - Hậu Cần Công An Nhân Dân (Phía Bắc)
+https://huongnghiep.hocmai.vn/diem-truong/truong-si-quan-cong-binh-he-quan-su-dai-hoc-ngo-quyen/,NQU,Trường Sĩ Quan Công Binh - Hệ Quân sự - Đại học Ngô Quyền
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-cong-nghe-thong-tin-va-truyen-thong-viet-han-dai-hoc-da-nang/,UD - VKU,VKU - Đại học Công Nghệ Thông Tin và truyền thông Việt - Hàn – Đại Học Đà Nẵng
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-kinh-te-quan-tri-kinh-doanh-dai-hoc-thai-nguyen/,TUEBA,Đại Học Kinh Tế  & Quản Trị Kinh Doanh – Đại Học Thái Nguyên
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-dai-hoc-quoc-gia-tphcm/,VNUHCM-USSH,USSH - Đại Học Khoa Học Xã Hội và Nhân Văn – Đại Học Quốc Gia TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/truong-si-quan-thong-tin-he-dan-su-dai-hoc-thong-tin-lien-lac/,TCU,Trường Sĩ Quan Thông Tin - Hệ Dân Sự - Đại Học Thông Tin Liên Lạc
+https://huongnghiep.hocmai.vn/diem-truong/truong-si-quan-thong-tin-he-quan-su-dai-hoc-thong-tin-lien-lac/,TCU,Trường Sĩ Quan Thông Tin - Hệ Quân sự - Đại Học Thông Tin Liên Lạc
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-dai-hoc-quoc-gia-ha-noi/,VNU-USSH,USSH - Đại Học Khoa Học Xã Hội và Nhân Văn – Đại Học Quốc Gia Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-cong-nghe-thong-tin-va-truyen-thong-dai-hoc-thai-nguyen/,ICTU,Đại học Công Nghệ Thông Tin và Truyền Thông – Đại Học Thái Nguyên
+https://huongnghiep.hocmai.vn/diem-truong/truong-si-quan-ki-thuat-quan-su-he-dan-su-dai-hoc-tran-dai-nghia/,TDNU,Trường Sĩ Quan Kĩ Thuật Quân Sự - Hệ Dân sự - Đại Học Trần Đại Nghĩa
+https://huongnghiep.hocmai.vn/diem-truong/truong-si-quan-ki-thuat-quan-su-he-quan-su-dai-hoc-tran-dai-nghia/,TDNU,Trường Sĩ Quan Kĩ Thuật Quân Sự -  Hệ Quân sự - Đại Học Trần Đại Nghĩa
+https://huongnghiep.hocmai.vn/diem-truong/khoa-ky-thuat-va-cong-nghe-dai-hoc-hue/,HUET,Khoa Kỹ thuật và Công nghệ - Đại học Huế
+https://huongnghiep.hocmai.vn/diem-truong/khoa-quoc-te-dai-hoc-hue/,HUIS,Khoa Quốc tế - Đại học Huế
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-viet-nhat-dh-quoc-gia-ha-noi/,VJU,Đại học Việt Nhật - ĐH Quốc gia Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/khoa-cac-khoa-hoc-lien-nganh-dh-quoc-gia-ha-noi/,VNU-SIS,SIS - Khoa các khoa học liên ngành - ĐH Quốc gia Hà Nội
+https://huongnghiep.hocmai.vn/diem-truong/hoc-vien-quoc-te/,ISEF,Học viện Quốc tế
+https://huongnghiep.hocmai.vn/diem-truong/phan-hieu-dai-hoc-quoc-gia-tp-hcm-tai-ben-tre/,VNUHCM,Phân hiệu Đại học Quốc gia TP.HCM tại Bến Tre
+https://huongnghiep.hocmai.vn/diem-truong/khoa-chinh-tri-hanh-chinh-dai-hoc-quoc-gia-tp-hcm/,SPAS,Khoa Chính trị - Hành chính (Đại học Quốc gia TP HCM)
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-quan-ly-va-cong-nghe-tphcm/,UMT,Đại học Quản lý và Công nghệ TPHCM
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-cmc/,CMC,Đại học CMC
+https://huongnghiep.hocmai.vn/diem-truong/dai-hoc-lam-nghiep-co-so-3-phan-hieu-gia-lai/,VNUF3,Đại Học Lâm Nghiệp (Cơ sở 3) - Phân hiệu Gia Lai
