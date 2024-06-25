@@ -1876,7 +1876,7 @@ HUS,Đại Học Khoa Học – Đại Học Huế,7850101,Quản lý tài nguy�
 HUS,Đại Học Khoa Học – Đại Học Huế,7520320,Kỹ thuật môi trường,"A00, B00, D07, XDHB",18.5,Học bạ,2021
 HUS,Đại Học Khoa Học – Đại Học Huế,7520501,Kỹ thuật địa chất,"A00, B00, D07, XDHB",18.5,Học bạ,2021
 HUS,Đại Học Khoa Học – Đại Học Huế,7440301,Khoa học môi trường,"A00, B00, D07, XDHB",18.5,Học bạ,2021
-HUS,Đại Học Khoa Học – Đại Học Huế,7310205,Quản lý nhà nước,"A00, D66, C199, XDHB",18.5,Học bạ,2021
+HUS,Đại Học Khoa Học – Đại Học Huế,7310205,Quản lý nhà nước,"A00, D66, C19, XDHB",18.5,Học bạ,2021
 HUS,Đại Học Khoa Học – Đại Học Huế,7310301,Xã hội học,"D01, C00, D14, XDHB",18.5,Học bạ,2021
 HUS,Đại Học Khoa Học – Đại Học Huế,7510302,Công nghệ kỹ thuật điện tử - viễn thông,"A00, A01, XDHB",19,Học bạ,2021
 HUS,Đại Học Khoa Học – Đại Học Huế,7510401,Công nghệ kỹ thuật hoá học,"A00, B00, D07, XDHB",19,Học bạ,2021
@@ -2406,22 +2406,22 @@ UEH,Đại Học Kinh Tế TPHCM,7340206,Tài chính quốc tế,DGNL,950,,2021
 UEH,Đại Học Kinh Tế TPHCM,7480103,Kỹ thuật phần mềm,DGNL,950,,2021
 UEH,Đại Học Kinh Tế TPHCM,7340404,Quản trị nhân lực,DGNL,950,,2021
 UEH,Đại Học Kinh Tế TPHCM,751065,Logistics và Quản lý chuỗi cung ứng,DGNL,1000,,2021
-TUEBA,Đại Học Kinh Tế\xa0 & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7340201_CLC,Tài chính - Ngân hàng,"A00, A01, D01, C01",20,Tài chính chất lượng cao,2021
-TUEBA,Đại Học Kinh Tế\xa0 & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7340101_CLC,Quản trị kinh doanh,"A00, A01, D01, C01",18.5,Quản trị kinh doanh chất lượng cao,2021
-TUEBA,Đại Học Kinh Tế\xa0 & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7810103_CLC,Quản trị dịch vụ du lịch và lữ hành,"A00, D01, C00, C04",18,Quản trị dịch vụ du lịch và lữ hành chất lượng cao,2021
-TUEBA,Đại Học Kinh Tế\xa0 & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7310105,Kinh tế,"A00, D01, C00, C04",16,Kinh tế phát triển,2021
-TUEBA,Đại Học Kinh Tế\xa0 & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7310104,Kinh tế,"A00, A01, D01, D10",16,Kinh tế đầu tư,2021
-TUEBA,Đại Học Kinh Tế\xa0 & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7340301_CLC,Kế toán,"A00, A01, D01, D07",18.5,Kế toán tổng hợp chất lượng cao,2021
-TUEBA,Đại Học Kinh Tế\xa0 & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7810103,Quản trị dịch vụ du lịch và lữ hành,"A00, A01, D01, C04",16,,2021
-TUEBA,Đại Học Kinh Tế\xa0 & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7510605,Logistics và Quản lý chuỗi cung ứng,"A00, D01, D10",16,,2021
-TUEBA,Đại Học Kinh Tế\xa0 & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7340201,Tài chính - Ngân hàng,"A00, A01, D01, C01",16,,2021
-TUEBA,Đại Học Kinh Tế\xa0 & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7340101,Quản trị kinh doanh,"A00, A01, D01, C01",16,,2021
-TUEBA,Đại Học Kinh Tế\xa0 & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7380107,Luật,"A00, D01, C00, D14",16,,2021
-TUEBA,Đại Học Kinh Tế\xa0 & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7340301,Kế toán,"A00, A01, D01, D07",16,,2021
-TUEBA,Đại Học Kinh Tế\xa0 & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7340115,Marketing,"A00, A01, D01, C04",16,,2021
-TUEBA,Đại Học Kinh Tế\xa0 & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7310101,Kinh tế,"A00, B00, D01, C04",16,,2021
-TUEBA,Đại Học Kinh Tế\xa0 & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7340120,Kinh doanh quốc tế,"A00, A01, D01, C04",16.5,,2021
-TUEBA,Đại Học Kinh Tế\xa0 & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7340403,Quản lý công,"A00, A01, D01, C01",17.5,,2021
+TUEBA,Đại Học Kinh Tế  & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7340201_CLC,Tài chính - Ngân hàng,"A00, A01, D01, C01",20,Tài chính chất lượng cao,2021
+TUEBA,Đại Học Kinh Tế  & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7340101_CLC,Quản trị kinh doanh,"A00, A01, D01, C01",18.5,Quản trị kinh doanh chất lượng cao,2021
+TUEBA,Đại Học Kinh Tế  & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7810103_CLC,Quản trị dịch vụ du lịch và lữ hành,"A00, D01, C00, C04",18,Quản trị dịch vụ du lịch và lữ hành chất lượng cao,2021
+TUEBA,Đại Học Kinh Tế  & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7310105,Kinh tế,"A00, D01, C00, C04",16,Kinh tế phát triển,2021
+TUEBA,Đại Học Kinh Tế  & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7310104,Kinh tế,"A00, A01, D01, D10",16,Kinh tế đầu tư,2021
+TUEBA,Đại Học Kinh Tế  & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7340301_CLC,Kế toán,"A00, A01, D01, D07",18.5,Kế toán tổng hợp chất lượng cao,2021
+TUEBA,Đại Học Kinh Tế  & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7810103,Quản trị dịch vụ du lịch và lữ hành,"A00, A01, D01, C04",16,,2021
+TUEBA,Đại Học Kinh Tế  & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7510605,Logistics và Quản lý chuỗi cung ứng,"A00, D01, D10",16,,2021
+TUEBA,Đại Học Kinh Tế  & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7340201,Tài chính - Ngân hàng,"A00, A01, D01, C01",16,,2021
+TUEBA,Đại Học Kinh Tế  & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7340101,Quản trị kinh doanh,"A00, A01, D01, C01",16,,2021
+TUEBA,Đại Học Kinh Tế  & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7380107,Luật,"A00, D01, C00, D14",16,,2021
+TUEBA,Đại Học Kinh Tế  & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7340301,Kế toán,"A00, A01, D01, D07",16,,2021
+TUEBA,Đại Học Kinh Tế  & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7340115,Marketing,"A00, A01, D01, C04",16,,2021
+TUEBA,Đại Học Kinh Tế  & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7310101,Kinh tế,"A00, B00, D01, C04",16,,2021
+TUEBA,Đại Học Kinh Tế  & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7340120,Kinh doanh quốc tế,"A00, A01, D01, C04",16.5,,2021
+TUEBA,Đại Học Kinh Tế  & Quản Trị Kinh Doanh – Đại Học Thái Nguyên,7340403,Quản lý công,"A00, A01, D01, C01",17.5,,2021
 ĐHKTHCCAND,Đại Học Kỹ Thuật - Hậu Cần Công An Nhân Dân (Phía Bắc),7480200,"Nhóm ngành Kỹ thuật, Hậu cần CAND",A00,27.34,dành cho nữ,2021
 ĐHKTHCCAND,Đại Học Kỹ Thuật - Hậu Cần Công An Nhân Dân (Phía Bắc),7480200,"Nhóm ngành Kỹ thuật, Hậu cần CAND",A01,27.98,dành cho nữ,2021
 ĐHKTHCCAND,Đại Học Kỹ Thuật - Hậu Cần Công An Nhân Dân (Phía Bắc),7480200,"Nhóm ngành Kỹ thuật, Hậu cần CAND",A00,25.2,dành cho nam,2021
@@ -4283,7 +4283,7 @@ TTU,Đại học Tân Trào,7229030,Văn học,"D01, C00, C19, C20",15,,2021
 TTU,Đại học Tân Trào,7140101,Giáo dục học,"D01, C00, C19",15,,2021
 TTU,Đại học Tân Trào,7480201,Công nghệ thông tin,"A00, B00, A01",15,,2021
 TTU,Đại học Tân Trào,7310401,Tâm lý học,"D01, C00, C19",15,,2021
-TTU,Đại học Tân Trào,7310201,Chính trị học,"D01, C00, C199",15,,2021
+TTU,Đại học Tân Trào,7310201,Chính trị học,"D01, C00, C19",15,,2021
 TTU,Đại học Tân Trào,7310104,Kinh tế,"A00, A01, D01",15,,2021
 TTU,Đại học Tân Trào,7620205,Lâm sinh,"B00, B08, A02",15,,2021
 TTU,Đại học Tân Trào,7420203,Sinh học ứng dụng,"A00, B00, A01",15,,2021
@@ -5219,22 +5219,22 @@ YU,Đại Học Yersin Đà Lạt,7380107,Luật,"A00, D01, C00, C20",15,,2021
 YU,Đại Học Yersin Đà Lạt,7510205,Công nghệ kỹ thuật ô tô,"A00, A01, D01, C01",15,,2021
 YU,Đại Học Yersin Đà Lạt,7720301,Điều dưỡng,"B00, A01, D01, D08",19,,2021
 YU,Đại Học Yersin Đà Lạt,7720201,Dược học,"A00, B00, D07, C08",21,,2021
-TUE,Đại\xa0Học Sư Phạm – Đại Học Thái Nguyên,7310403,Tâm lý học,"C00, C20, C14",15,Tâm lý học giáo dục,2021
-TUE,Đại\xa0Học Sư Phạm – Đại Học Thái Nguyên,7140101,Giáo dục học,"C00, C20, C14",15,,2021
-TUE,Đại\xa0Học Sư Phạm – Đại Học Thái Nguyên,7140247,Sư phạm khoa học tự nhiên,"A00, B00",19,,2021
-TUE,Đại\xa0Học Sư Phạm – Đại Học Thái Nguyên,7140213,Sư phạm Sinh học,"B00, B08",19,,2021
-TUE,Đại\xa0Học Sư Phạm – Đại Học Thái Nguyên,7140210,Sư phạm Tin học,"A00, A01, D07",19,,2021
-TUE,Đại\xa0Học Sư Phạm – Đại Học Thái Nguyên,7140211,Sư phạm Vật lý,"A00, A01",19.5,,2021
-TUE,Đại\xa0Học Sư Phạm – Đại Học Thái Nguyên,7140212,Sư phạm Hóa học,"A00, D01, D07",20,,2021
-TUE,Đại\xa0Học Sư Phạm – Đại Học Thái Nguyên,7140202,Giáo dục Tiểu học,D01,23.75,,2021
-TUE,Đại\xa0Học Sư Phạm – Đại Học Thái Nguyên,7140206,Giáo dục Thể chất,"C19, C20, C14",24,,2021
-TUE,Đại\xa0Học Sư Phạm – Đại Học Thái Nguyên,7140231,Sư phạm Tiếng Anh,"D01, D09, D10",24,,2021
-TUE,Đại\xa0Học Sư Phạm – Đại Học Thái Nguyên,7140218,Sư phạm Lịch sử,"C00, C19, C14",24,,2021
-TUE,Đại\xa0Học Sư Phạm – Đại Học Thái Nguyên,7140209,Sư phạm Toán học,"A00, A01, D01",24,,2021
-TUE,Đại\xa0Học Sư Phạm – Đại Học Thái Nguyên,7140219,Sư phạm Địa lý,"C00, C04, D10",24,,2021
-TUE,Đại\xa0Học Sư Phạm – Đại Học Thái Nguyên,7140217,Sư phạm Ngữ văn,"D01, C00, D14",24,,2021
-TUE,Đại\xa0Học Sư Phạm – Đại Học Thái Nguyên,7140205,Giáo dục Chính trị,"C00, C19, C20",25,,2021
-TUE,Đại\xa0Học Sư Phạm – Đại Học Thái Nguyên,7140201,Giáo dục Mầm non,"C19, C20, C14",27.5,,2021
+TUE,Đại Học Sư Phạm – Đại Học Thái Nguyên,7310403,Tâm lý học,"C00, C20, C14",15,Tâm lý học giáo dục,2021
+TUE,Đại Học Sư Phạm – Đại Học Thái Nguyên,7140101,Giáo dục học,"C00, C20, C14",15,,2021
+TUE,Đại Học Sư Phạm – Đại Học Thái Nguyên,7140247,Sư phạm khoa học tự nhiên,"A00, B00",19,,2021
+TUE,Đại Học Sư Phạm – Đại Học Thái Nguyên,7140213,Sư phạm Sinh học,"B00, B08",19,,2021
+TUE,Đại Học Sư Phạm – Đại Học Thái Nguyên,7140210,Sư phạm Tin học,"A00, A01, D07",19,,2021
+TUE,Đại Học Sư Phạm – Đại Học Thái Nguyên,7140211,Sư phạm Vật lý,"A00, A01",19.5,,2021
+TUE,Đại Học Sư Phạm – Đại Học Thái Nguyên,7140212,Sư phạm Hóa học,"A00, D01, D07",20,,2021
+TUE,Đại Học Sư Phạm – Đại Học Thái Nguyên,7140202,Giáo dục Tiểu học,D01,23.75,,2021
+TUE,Đại Học Sư Phạm – Đại Học Thái Nguyên,7140206,Giáo dục Thể chất,"C19, C20, C14",24,,2021
+TUE,Đại Học Sư Phạm – Đại Học Thái Nguyên,7140231,Sư phạm Tiếng Anh,"D01, D09, D10",24,,2021
+TUE,Đại Học Sư Phạm – Đại Học Thái Nguyên,7140218,Sư phạm Lịch sử,"C00, C19, C14",24,,2021
+TUE,Đại Học Sư Phạm – Đại Học Thái Nguyên,7140209,Sư phạm Toán học,"A00, A01, D01",24,,2021
+TUE,Đại Học Sư Phạm – Đại Học Thái Nguyên,7140219,Sư phạm Địa lý,"C00, C04, D10",24,,2021
+TUE,Đại Học Sư Phạm – Đại Học Thái Nguyên,7140217,Sư phạm Ngữ văn,"D01, C00, D14",24,,2021
+TUE,Đại Học Sư Phạm – Đại Học Thái Nguyên,7140205,Giáo dục Chính trị,"C00, C19, C20",25,,2021
+TUE,Đại Học Sư Phạm – Đại Học Thái Nguyên,7140201,Giáo dục Mầm non,"C19, C20, C14",27.5,,2021
 HCMUNRE,ĐH Tài Nguyên môi trường TPHCM,7850197,Quản lý tài nguyên và môi trường,"A00, B00, A01, A14",15,Quản lý tài nguyên và môi trường biển đảoĐiểm môn toán nhân hệ số 2Điểm thi TN THPT,2021
 HCMUNRE,ĐH Tài Nguyên môi trường TPHCM,7850102,Kinh tế,"A00, B00, A01, D01",15,Kinh tế tài nguyên thiên nhiênĐiểm môn toán nhân hệ số 2Điểm thi TN THPT,2021
 HCMUNRE,ĐH Tài Nguyên môi trường TPHCM,7440298,Biến đổi khí hậu và Phát triển bền vững,"A00, B00, A01, D01",15,Điểm môn toán nhân hệ số 2Điểm thi TN THPT,2021
@@ -5335,7 +5335,7 @@ UT-HCMC,HCMC - Đại Học Giao Thông Vận Tải TPHCM,7520103H,Kỹ thuật 
 UT-HCMC,HCMC - Đại Học Giao Thông Vận Tải TPHCM,75201301,Kỹ thuật ô tô,"A00, A01",25.3,Cơ khí ô tôĐiểm thi TN THPT,2021
 UT-HCMC,HCMC - Đại Học Giao Thông Vận Tải TPHCM,7520103H,Kỹ thuật cơ khí,"A00, A01, XDHB",26,Cơ khí ô tô,2021
 UT-HCMC,HCMC - Đại Học Giao Thông Vận Tải TPHCM,75201302,Kỹ thuật ô tô,"A00, A01, XDHB",27.1,Cơ điện tử ô tôHọc bạ,2021
-UT-HCMC,HCMC - Đại Học Giao Thông Vận Tải TPHCM,75201302,Kỹ thuật ô tô,75201302,25.4,Cơ điện tử ô tôĐiểm thi TN THPT,2021
+UT-HCMC,HCMC - Đại Học Giao Thông Vận Tải TPHCM,75201302,Kỹ thuật ô tô,"A00, A01",25.4,Cơ điện tử ô tôĐiểm thi TN THPT,2021
 UT-HCMC,HCMC - Đại Học Giao Thông Vận Tải TPHCM,78401064,Khoa học hàng hải,"A00, A01, D01, XDHB",25.3,(Quản lý hàng hảiHọc bạ,2021
 UT-HCMC,HCMC - Đại Học Giao Thông Vận Tải TPHCM,7520207H,Kỹ thuật điện tử - viễn thông,"A00, A01, XDHB",23.4,,2021
 UT-HCMC,HCMC - Đại Học Giao Thông Vận Tải TPHCM,7520216H,Kỹ thuật điều khiển và tự động hoá,"A00, A01, XDHB",25,,2021
@@ -5863,52 +5863,52 @@ VCA,Học viện Tòa án,7380101,Luật,"C00, XDHB",25.82,Nam miền BắcHọc
 VUTM,Học Viện Y Dược Học Cổ Truyền Việt Nam,7720115,Y học cổ truyền,B00,24.5,TTNV <= 2,2021
 VUTM,Học Viện Y Dược Học Cổ Truyền Việt Nam,7720201,Dược học,A00,24.95,TTNV <= 2,2021
 VUTM,Học Viện Y Dược Học Cổ Truyền Việt Nam,7720101,Y khoa,B00,26.3,TTNV <= 1,2021
-HCE-HU,HU - Đại Học Kinh Tế – Đại Học Huế,7310106,Kinh tế,"A00, A01, D01, C15",16,Kinh tế quốc tếĐiểm thi TN THPT,2021
-HCE-HU,HU - Đại Học Kinh Tế – Đại Học Huế,7620115,Kinh tế,"A00, A01, D01, C15",16,Kinh tế nông nghiệpĐiểm thi TN THPT,2021
-HCE-HU,HU - Đại Học Kinh Tế – Đại Học Huế,7310102,Kinh tế,"A00, A01, D01, C15",16,Kinh tế chính trịĐiểm thi TN THPT,2021
-HCE-HU,HU - Đại Học Kinh Tế – Đại Học Huế,7340405CL,Hệ thống thông tin quản lý,"A00, A01, D01, C15",16,Điểm thi TN THPT,2021
-HCE-HU,HU - Đại Học Kinh Tế – Đại Học Huế,7310107,Thống kê kinh tế,"A00, A01, D01, A16",16,Điểm thi TN THPT,2021
-HCE-HU,HU - Đại Học Kinh Tế – Đại Học Huế,7349001,Tài chính - Ngân hàng,"A00, D01, D90, D03",17,Điểm thi TN THPT,2021
-HCE-HU,HU - Đại Học Kinh Tế – Đại Học Huế,7340121,Kinh doanh thương mại,"A00, A01, D01, C15",17,Điểm thi TN THPT,2021
-HCE-HU,HU - Đại Học Kinh Tế – Đại Học Huế,7340404,Quản trị nhân lực,"A00, A01, D01, C15",17,Điểm thi TN THPT,2021
-HCE-HU,HU - Đại Học Kinh Tế – Đại Học Huế,7430302,Kiểm toán,"A00, A01, D01, C15",17,Điểm thi TN THPT,2021
-HCE-HU,HU - Đại Học Kinh Tế – Đại Học Huế,7310101,Kinh tế,"A00, A01, D01, C15",18,Điểm thi TN THPT,2021
-HCE-HU,HU - Đại Học Kinh Tế – Đại Học Huế,7340122,Thương mại điện tử,"A00, A01, D01, C15",20,Điểm thi TN THPT,2021
-HCE-HU,HU - Đại Học Kinh Tế – Đại Học Huế,7340301,Kế toán,"A00, A01, D01, A16",20,Điểm thi TN THPT,2021
-HCE-HU,HU - Đại Học Kinh Tế – Đại Học Huế,7510605,Logistics và Quản lý chuỗi cung ứng,"A00, A01, D01, C15",20,Điểm thi TN THPT,2021
-HCE-HU,HU - Đại Học Kinh Tế – Đại Học Huế,7340101,Quản trị kinh doanh,"A00, A01, D01, C15",22,Điểm thi TN THPT,2021
-HCE-HU,HU - Đại Học Kinh Tế – Đại Học Huế,7340115,Marketing,"A00, A01, D01, C15",23,Điểm thi TN THPT,2021
-HCE-HU,HU - Đại Học Kinh Tế – Đại Học Huế,7310101CL,Kinh tế,"A00, A01, D01, C15",18,Chuyên ngành kế hoạch đầu tưChương trình chất lượng caoĐiểm thi TN THPT,2021
-HCE-HU,HU - Đại Học Kinh Tế – Đại Học Huế,7903124,Song ngành Kinh tế - Tài chính,"A00, A01, D01, C15",16,Chương trình liên kếtĐiểm thi TN THPT,2021
-HCE-HU,HU - Đại Học Kinh Tế – Đại Học Huế,7349002,Quản trị kinh doanh,"A00, A01, D01, C15",16,Chương trình liên kếtĐiểm thi TN THPT,2021
-HCE-HU,HU - Đại Học Kinh Tế – Đại Học Huế,7349001,Tài chính - Ngân hàng,"A00, D01, D96, D03",16,Chương trình liên kếtĐiểm thi TN THPT,2021
-HCE-HU,HU - Đại Học Kinh Tế – Đại Học Huế,7340302CL,Kiểm toán,"A00, A01, D01, C15",17,Chương trình chất lượng caoĐiểm thi TN THPT,2021
-HCE-HU,HU - Đại Học Kinh Tế – Đại Học Huế,7340101CL,Quản trị kinh doanh,"A00, A01, D01, C15",18,Chương trình chất lượng caoĐiểm thi TN THPT,2021
-UL-HU,HU - Đại học Luật - Đại Học Huế,7380107,Luật,"A00, D01, C00, C20",18.5,Luật kinh tếĐiểm thi TN THPT,2021
-UL-HU,HU - Đại học Luật - Đại Học Huế,7380101,Luật,"A00, C00, C20, D66",18.5,Điểm thi TN THPT,2021
-UFL-HU,HU - Đại Học Ngoại Ngữ – Đại Học Huế,7140233,Sư phạm Tiếng Pháp,"D01, D15, D03, D44, XDHB",18,Học bạ,2021
-UFL-HU,HU - Đại Học Ngoại Ngữ – Đại Học Huế,7310601,Quốc tế học,"D01, D14, D15, XDHB",18,Học bạ,2021
-UFL-HU,HU - Đại Học Ngoại Ngữ – Đại Học Huế,7220203,Ngôn ngữ Pháp,"D01, D15, D03, D44, XDHB",18,Học bạ,2021
-UFL-HU,HU - Đại Học Ngoại Ngữ – Đại Học Huế,7310630,Việt Nam học,"D01, D14, D15, XDHB",18,Học bạ,2021
-UFL-HU,HU - Đại Học Ngoại Ngữ – Đại Học Huế,7220202,Ngôn ngữ Nga,"D01, D15, D02, D42, XDHB",18,Học bạ,2021
-UFL-HU,HU - Đại Học Ngoại Ngữ – Đại Học Huế,7220209,Ngôn ngữ Nhật,"D01, D15, D06, D43, XDHB",23,Học bạ,2021
-UFL-HU,HU - Đại Học Ngoại Ngữ – Đại Học Huế,7220201,Ngôn ngữ Anh,"D01, D14, D15, XDHB",23,Học bạ,2021
-UFL-HU,HU - Đại Học Ngoại Ngữ – Đại Học Huế,7140234,Sư phạm Tiếng Trung Quốc,"D01, D15, D04, D45, XDHB",24,Học bạ,2021
-UFL-HU,HU - Đại Học Ngoại Ngữ – Đại Học Huế,7220204,Ngôn ngữ Trung Quốc,"D01, D15, D04, D45, XDHB",24,Học bạ,2021
-UFL-HU,HU - Đại Học Ngoại Ngữ – Đại Học Huế,7220210,Ngôn ngữ Hàn Quốc,"D01, D14, D15, XDHB",25,Học bạ,2021
-UFL-HU,HU - Đại Học Ngoại Ngữ – Đại Học Huế,7140231,Sư phạm Tiếng Anh,"D01, D14, D15, XDHB",26,Học bạ,2021
-UFL-HU,HU - Đại Học Ngoại Ngữ – Đại Học Huế,7310601,Quốc tế học,"D01, D14, D15",15,Điểm thi TN THPT,2021
-UFL-HU,HU - Đại Học Ngoại Ngữ – Đại Học Huế,7220203,Ngôn ngữ Pháp,"D01, D15, D03, D44",15,Điểm thi TN THPT,2021
-UFL-HU,HU - Đại Học Ngoại Ngữ – Đại Học Huế,7310630,Việt Nam học,"D01, D14, D15",15,Điểm thi TN THPT,2021
-UFL-HU,HU - Đại Học Ngoại Ngữ – Đại Học Huế,7220202,Ngôn ngữ Nga,"D01, D15, D02, D42",15,Điểm thi TN THPT,2021
-UFL-HU,HU - Đại Học Ngoại Ngữ – Đại Học Huế,7140233,Sư phạm Tiếng Pháp,"D01, D15, D03, D44",19,Điểm thi TN THPT,2021
-UFL-HU,HU - Đại Học Ngoại Ngữ – Đại Học Huế,7220209,Ngôn ngữ Nhật,"D01, D15, D06, D43",21.5,Điểm thi TN THPT,2021
-UFL-HU,HU - Đại Học Ngoại Ngữ – Đại Học Huế,7220201,Ngôn ngữ Anh,"D01, D14, D15",22.25,Điểm thi TN THPT,2021
-UFL-HU,HU - Đại Học Ngoại Ngữ – Đại Học Huế,7140234,Sư phạm Tiếng Trung Quốc,"D01, D15, D04, D45",23,Điểm thi TN THPT,2021
-UFL-HU,HU - Đại Học Ngoại Ngữ – Đại Học Huế,7220210,Ngôn ngữ Hàn Quốc,"D01, D14, D15",23.5,Điểm thi TN THPT,2021
-UFL-HU,HU - Đại Học Ngoại Ngữ – Đại Học Huế,7220204,Ngôn ngữ Trung Quốc,"D01, D15, D04, D45",23.75,Điểm thi TN THPT,2021
-UFL-HU,HU - Đại Học Ngoại Ngữ – Đại Học Huế,7140231,Sư phạm Tiếng Anh,"D01, D14, D15",25.75,Điểm thi TN THPT,2021
-SPR-HU,HU - Khoa Giáo Dục Thể Chất – Đại Học Huế,7140206,Giáo dục Thể chất,"T00, T02, T05, T07",25.88,Điểm thi TN THPT,2021
+HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7310106,Kinh tế,"A00, A01, D01, C15",16,Kinh tế quốc tếĐiểm thi TN THPT,2021
+HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7620115,Kinh tế,"A00, A01, D01, C15",16,Kinh tế nông nghiệpĐiểm thi TN THPT,2021
+HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7310102,Kinh tế,"A00, A01, D01, C15",16,Kinh tế chính trịĐiểm thi TN THPT,2021
+HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7340405CL,Hệ thống thông tin quản lý,"A00, A01, D01, C15",16,Điểm thi TN THPT,2021
+HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7310107,Thống kê kinh tế,"A00, A01, D01, A16",16,Điểm thi TN THPT,2021
+HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7349001,Tài chính - Ngân hàng,"A00, D01, D90, D03",17,Điểm thi TN THPT,2021
+HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7340121,Kinh doanh thương mại,"A00, A01, D01, C15",17,Điểm thi TN THPT,2021
+HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7340404,Quản trị nhân lực,"A00, A01, D01, C15",17,Điểm thi TN THPT,2021
+HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7430302,Kiểm toán,"A00, A01, D01, C15",17,Điểm thi TN THPT,2021
+HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7310101,Kinh tế,"A00, A01, D01, C15",18,Điểm thi TN THPT,2021
+HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7340122,Thương mại điện tử,"A00, A01, D01, C15",20,Điểm thi TN THPT,2021
+HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7340301,Kế toán,"A00, A01, D01, A16",20,Điểm thi TN THPT,2021
+HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7510605,Logistics và Quản lý chuỗi cung ứng,"A00, A01, D01, C15",20,Điểm thi TN THPT,2021
+HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7340101,Quản trị kinh doanh,"A00, A01, D01, C15",22,Điểm thi TN THPT,2021
+HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7340115,Marketing,"A00, A01, D01, C15",23,Điểm thi TN THPT,2021
+HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7310101CL,Kinh tế,"A00, A01, D01, C15",18,Chuyên ngành kế hoạch đầu tưChương trình chất lượng caoĐiểm thi TN THPT,2021
+HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7903124,Song ngành Kinh tế - Tài chính,"A00, A01, D01, C15",16,Chương trình liên kếtĐiểm thi TN THPT,2021
+HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7349002,Quản trị kinh doanh,"A00, A01, D01, C15",16,Chương trình liên kếtĐiểm thi TN THPT,2021
+HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7349001,Tài chính - Ngân hàng,"A00, D01, D96, D03",16,Chương trình liên kếtĐiểm thi TN THPT,2021
+HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7340302CL,Kiểm toán,"A00, A01, D01, C15",17,Chương trình chất lượng caoĐiểm thi TN THPT,2021
+HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7340101CL,Quản trị kinh doanh,"A00, A01, D01, C15",18,Chương trình chất lượng caoĐiểm thi TN THPT,2021
+UL-HU,Đại Học Luật - Đại Học Huế,7380107,Luật,"A00, D01, C00, C20",18.5,Luật kinh tếĐiểm thi TN THPT,2021
+UL-HU,Đại Học Luật - Đại Học Huế,7380101,Luật,"A00, C00, C20, D66",18.5,Điểm thi TN THPT,2021
+UFL-HU,Đại Học Ngoại Ngữ – Đại Học Huế,7140233,Sư phạm Tiếng Pháp,"D01, D15, D03, D44, XDHB",18,Học bạ,2021
+UFL-HU,Đại Học Ngoại Ngữ – Đại Học Huế,7310601,Quốc tế học,"D01, D14, D15, XDHB",18,Học bạ,2021
+UFL-HU,Đại Học Ngoại Ngữ – Đại Học Huế,7220203,Ngôn ngữ Pháp,"D01, D15, D03, D44, XDHB",18,Học bạ,2021
+UFL-HU,Đại Học Ngoại Ngữ – Đại Học Huế,7310630,Việt Nam học,"D01, D14, D15, XDHB",18,Học bạ,2021
+UFL-HU,Đại Học Ngoại Ngữ – Đại Học Huế,7220202,Ngôn ngữ Nga,"D01, D15, D02, D42, XDHB",18,Học bạ,2021
+UFL-HU,Đại Học Ngoại Ngữ – Đại Học Huế,7220209,Ngôn ngữ Nhật,"D01, D15, D06, D43, XDHB",23,Học bạ,2021
+UFL-HU,Đại Học Ngoại Ngữ – Đại Học Huế,7220201,Ngôn ngữ Anh,"D01, D14, D15, XDHB",23,Học bạ,2021
+UFL-HU,Đại Học Ngoại Ngữ – Đại Học Huế,7140234,Sư phạm Tiếng Trung Quốc,"D01, D15, D04, D45, XDHB",24,Học bạ,2021
+UFL-HU,Đại Học Ngoại Ngữ – Đại Học Huế,7220204,Ngôn ngữ Trung Quốc,"D01, D15, D04, D45, XDHB",24,Học bạ,2021
+UFL-HU,Đại Học Ngoại Ngữ – Đại Học Huế,7220210,Ngôn ngữ Hàn Quốc,"D01, D14, D15, XDHB",25,Học bạ,2021
+UFL-HU,Đại Học Ngoại Ngữ – Đại Học Huế,7140231,Sư phạm Tiếng Anh,"D01, D14, D15, XDHB",26,Học bạ,2021
+UFL-HU,Đại Học Ngoại Ngữ – Đại Học Huế,7310601,Quốc tế học,"D01, D14, D15",15,Điểm thi TN THPT,2021
+UFL-HU,Đại Học Ngoại Ngữ – Đại Học Huế,7220203,Ngôn ngữ Pháp,"D01, D15, D03, D44",15,Điểm thi TN THPT,2021
+UFL-HU,Đại Học Ngoại Ngữ – Đại Học Huế,7310630,Việt Nam học,"D01, D14, D15",15,Điểm thi TN THPT,2021
+UFL-HU,Đại Học Ngoại Ngữ – Đại Học Huế,7220202,Ngôn ngữ Nga,"D01, D15, D02, D42",15,Điểm thi TN THPT,2021
+UFL-HU,Đại Học Ngoại Ngữ – Đại Học Huế,7140233,Sư phạm Tiếng Pháp,"D01, D15, D03, D44",19,Điểm thi TN THPT,2021
+UFL-HU,Đại Học Ngoại Ngữ – Đại Học Huế,7220209,Ngôn ngữ Nhật,"D01, D15, D06, D43",21.5,Điểm thi TN THPT,2021
+UFL-HU,Đại Học Ngoại Ngữ – Đại Học Huế,7220201,Ngôn ngữ Anh,"D01, D14, D15",22.25,Điểm thi TN THPT,2021
+UFL-HU,Đại Học Ngoại Ngữ – Đại Học Huế,7140234,Sư phạm Tiếng Trung Quốc,"D01, D15, D04, D45",23,Điểm thi TN THPT,2021
+UFL-HU,Đại Học Ngoại Ngữ – Đại Học Huế,7220210,Ngôn ngữ Hàn Quốc,"D01, D14, D15",23.5,Điểm thi TN THPT,2021
+UFL-HU,Đại Học Ngoại Ngữ – Đại Học Huế,7220204,Ngôn ngữ Trung Quốc,"D01, D15, D04, D45",23.75,Điểm thi TN THPT,2021
+UFL-HU,Đại Học Ngoại Ngữ – Đại Học Huế,7140231,Sư phạm Tiếng Anh,"D01, D14, D15",25.75,Điểm thi TN THPT,2021
+SPR-HU,Khoa Giáo Dục Thể Chất – Đại Học Huế,7140206,Giáo dục Thể chất,"T00, T02, T05, T07",25.88,Điểm thi TN THPT,2021
 VNU-HUS,HUS - Đại Học Khoa Học Tự Nhiên – Đại Học Quốc Gia Hà Nội,QHT02,Khối ngành Toán - Tin học,"A00, A01, D07, D08",26.35,Ngành Toán tinĐiểm thi TN THPT,2021
 VNU-HUS,HUS - Đại Học Khoa Học Tự Nhiên – Đại Học Quốc Gia Hà Nội,QHT02,Khối ngành Toán - Tin học,DGNLQGHN,100,Ngành Toán tin,2021
 VNU-HUS,HUS - Đại Học Khoa Học Tự Nhiên – Đại Học Quốc Gia Hà Nội,QHT92,Tài nguyên và môi trường nước,"A00, B00, A01, D07",18,Điểm thi TN THPT,2021
@@ -5963,14 +5963,14 @@ VNU-HUS,HUS - Đại Học Khoa Học Tự Nhiên – Đại Học Quốc Gia H�
 VNU-HUS,HUS - Đại Học Khoa Học Tự Nhiên – Đại Học Quốc Gia Hà Nội,QHT93,Khoa học dữ liệu,DGNLQGHN,100,,2021
 VNU-HUS,HUS - Đại Học Khoa Học Tự Nhiên – Đại Học Quốc Gia Hà Nội,QHT94,Kỹ thuật điện tử và tin học,DGNLQGHN,100,,2021
 VNU - IS,IS - Trường Quốc Tế – Đại Học Quốc Gia Hà Nội,QHQ08,Tự động hóa hệ thống điện,"A00, A01, D01, D07, D03, D06, D24, D23",22,Điểm thi TN THPT (ngành học tự động hóa và tin học - CTĐT CLC),2021
-VNU - IS,IS - Trường Quốc Tế – Đại Học Quốc Gia Hà Nội,QHQ09,Ngôn ngữ Anh,"A00, A01, D01, D96, D03, D06, D97, DD0",25,Điểm thi TN THPT (ngành chuyên sâu kinh doanh và CNTT - CTĐT CLC),2021
-VNU - IS,IS - Trường Quốc Tế – Đại Học Quốc Gia Hà Nội,QHQ03,Hệ thống thông tin quản lý,"A00, A01, D01, D96, D03, D06, D97, DD0",24.8,Điểm thi TN THPT (hệ CTĐT CLC),2021
+VNU - IS,IS - Trường Quốc Tế – Đại Học Quốc Gia Hà Nội,QHQ09,Ngôn ngữ Anh,"A00, A01, D01, D96, D03, D06, D97, D00",25,Điểm thi TN THPT (ngành chuyên sâu kinh doanh và CNTT - CTĐT CLC),2021
+VNU - IS,IS - Trường Quốc Tế – Đại Học Quốc Gia Hà Nội,QHQ03,Hệ thống thông tin quản lý,"A00, A01, D01, D96, D03, D06, D97, D00",24.8,Điểm thi TN THPT (hệ CTĐT CLC),2021
 VNU - IS,IS - Trường Quốc Tế – Đại Học Quốc Gia Hà Nội,QHQ05,Phân tích dữ liệu kinh doanh,"A00, A01, D01, D07, D03, D06, D24, D23",25,Điểm thi TN THPT (CTĐT CLC),2021
-VNU - IS,IS - Trường Quốc Tế – Đại Học Quốc Gia Hà Nội,QHQ06,Marketing,"A00, A01, D01, D96, D03, D06, D97, DD0",25.3,Điểm thi TN THPT (CTĐT cấp 2 bằng ĐH của ĐGQGHN và trường ĐH HELP- Malaysia),2021
+VNU - IS,IS - Trường Quốc Tế – Đại Học Quốc Gia Hà Nội,QHQ06,Marketing,"A00, A01, D01, D96, D03, D06, D97, D00",25.3,Điểm thi TN THPT (CTĐT cấp 2 bằng ĐH của ĐGQGHN và trường ĐH HELP- Malaysia),2021
 VNU - IS,IS - Trường Quốc Tế – Đại Học Quốc Gia Hà Nội,QHQ04,Tin học và kỹ thuật máy tính,"A00, A01, D01, D07, D03, D06, D24, D23",24,Điểm thi TN THPT ( hệ CTĐT LKQT do ĐHQG cấp bằng),2021
-VNU - IS,IS - Trường Quốc Tế – Đại Học Quốc Gia Hà Nội,QHQ02,"Kế toán, Phân tích và Kiểm toán","A00, A01, D01, D96, D03, D06, D97, DD0",25.5,điểm thi TN THPT ( hệ CTĐT CLC),2021
-VNU - IS,IS - Trường Quốc Tế – Đại Học Quốc Gia Hà Nội,QHQ01,Kinh doanh quốc tế,"A00, A01, D01, D96, D03, D06, D97, DD0",26.2,Điểm thi TN THPT ( hệ CTĐT CLC),2021
-VNU - IS,IS - Trường Quốc Tế – Đại Học Quốc Gia Hà Nội,QHQ07,Quản lý,"A00, A01, D01, D96, D03, D06, D97, DD0",23.5,Điểm thi TN THPT ( CTĐT cấp 2 bằng ĐH của ĐHQGHN và trường ĐH Keuka - Hoa kỳ,2021
+VNU - IS,IS - Trường Quốc Tế – Đại Học Quốc Gia Hà Nội,QHQ02,"Kế toán, Phân tích và Kiểm toán","A00, A01, D01, D96, D03, D06, D97, D00",25.5,điểm thi TN THPT ( hệ CTĐT CLC),2021
+VNU - IS,IS - Trường Quốc Tế – Đại Học Quốc Gia Hà Nội,QHQ01,Kinh doanh quốc tế,"A00, A01, D01, D96, D03, D06, D97, D00",26.2,Điểm thi TN THPT ( hệ CTĐT CLC),2021
+VNU - IS,IS - Trường Quốc Tế – Đại Học Quốc Gia Hà Nội,QHQ07,Quản lý,"A00, A01, D01, D96, D03, D06, D97, D00",23.5,Điểm thi TN THPT ( CTĐT cấp 2 bằng ĐH của ĐHQGHN và trường ĐH Keuka - Hoa kỳ,2021
 SPAS,Khoa Chính trị - Hành chính (Đại học Quốc gia TP HCM),7340403,Quản lý công,"A01, D01, C00, C15",19,,2021
 HUET,Khoa Kỹ thuật và Công nghệ - Đại học Huế,7520201,Kỹ thuật điện,"A00, A01, D01",16.25,Điểm thi TN THPT,2021
 HUET,Khoa Kỹ thuật và Công nghệ - Đại học Huế,7480112,Khoa học dữ liệu và Trí tuệ nhân tạo,"A00, A01, D01",18,Điểm thi TN THPT,2021
@@ -6106,9 +6106,9 @@ CCE,Trường Sĩ Quan Phòng Hóa,7860229,Chỉ huy kỹ thuật Hoá học,"A0
 TCU,Trường Sĩ Quan Thông Tin - Hệ Quân sự - Đại Học Thông Tin Liên Lạc,7860221,Chỉ huy tham mưu thông tin,"A00, A01",23.4,"phía nam, xét học bạ thpt",2021
 TCU,Trường Sĩ Quan Thông Tin - Hệ Quân sự - Đại Học Thông Tin Liên Lạc,7860221,Chỉ huy tham mưu thông tin,"A00, A01",23.3,"phía nam, tiêu chí 1: Toán >= 8.0",2021
 TCU,Trường Sĩ Quan Thông Tin - Hệ Quân sự - Đại Học Thông Tin Liên Lạc,7860221,Chỉ huy tham mưu thông tin,"A00, A01",24.7,"phía bắc, tiêu chí 1: Toán >=8.2, tiêu chí 2: Lý >= 8.0, tiêu chí 3: Hóa >= 8.5.",2021
-MCTAO,Trường Sĩ\xa0 Quan Tăng – Thiết Giáp,7860206,Chỉ huy tham mưu Tăng - Thiết giáp,"A00, A01",23.54,"phía nam, xét điểm học bạ THPT",2021
-MCTAO,Trường Sĩ\xa0 Quan Tăng – Thiết Giáp,7860206,Chỉ huy tham mưu Tăng - Thiết giáp,"A00, A01",23.65,"phía nam, tiêu chí 1: Toán >=8.0",2021
-MCTAO,Trường Sĩ\xa0 Quan Tăng – Thiết Giáp,7860206,Chỉ huy tham mưu Tăng - Thiết giáp,"A00, A01",24.8,"phía bắc, tiêu chí 1: Toán >= 7.8, tiêu chí 2: Lý >= 7.75",2021
+MCTAO,Trường Sĩ  Quan Tăng – Thiết Giáp,7860206,Chỉ huy tham mưu Tăng - Thiết giáp,"A00, A01",23.54,"phía nam, xét điểm học bạ THPT",2021
+MCTAO,Trường Sĩ  Quan Tăng – Thiết Giáp,7860206,Chỉ huy tham mưu Tăng - Thiết giáp,"A00, A01",23.65,"phía nam, tiêu chí 1: Toán >=8.0",2021
+MCTAO,Trường Sĩ  Quan Tăng – Thiết Giáp,7860206,Chỉ huy tham mưu Tăng - Thiết giáp,"A00, A01",24.8,"phía bắc, tiêu chí 1: Toán >= 7.8, tiêu chí 2: Lý >= 7.75",2021
 VNU - UEB,UEB - Đại Học Kinh Tế – Đại Học Quốc Gia Hà Nội,QHE45,Kinh tế,"A01, D01, D09, D10",35.57,Điểm thi TN THPT ( thang điểm 40 - với toán 8.6 từ NV1-NV4),2021
 VNU - UEB,UEB - Đại Học Kinh Tế – Đại Học Quốc Gia Hà Nội,QHE41,Tài chính - Ngân hàng,"A01, D01, D09, D10",35.75,Điểm thi TN THPT ( thang điểm 40 - với toán 8.6 từ NV1-NV3) - CTĐT CLC,2021
 VNU - UEB,UEB - Đại Học Kinh Tế – Đại Học Quốc Gia Hà Nội,QHE40,Quản trị kinh doanh,"A01, D01, D09, D10",36.2,Điểm thi TN THPT ( thang điểm 40 - với toán 8.2 từ NV1-NV5) - CTĐT CLC,2021
