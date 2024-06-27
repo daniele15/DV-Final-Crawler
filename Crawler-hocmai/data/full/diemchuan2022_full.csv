@@ -362,8 +362,8 @@ HLUV,Đại Học Hoa Lư,7310630,Việt Nam học,"C00, D14, D15, D66, XDHB",15
 HLUV,Đại Học Hoa Lư,7310630,Việt Nam học,"C00, D14, D15, D66",15,TN THPT,2022
 HLUV,Đại Học Hoa Lư,5140201,Giáo dục Mầm non,"M00, XDHB",24,Học bạ,2022
 HLUV,Đại Học Hoa Lư,5140201,Giáo dục Mầm non,M00,19,TN THPT,2022
-HLUV,Đại Học Hoa Lư,51340301,Kế toán,"A00, A01, D01, D07, XDHB",15,Học bạ,2022
-HLUV,Đại Học Hoa Lư,51340301,Kế toán,"A00, A01, D01, D07",15,TN THPT,2022
+HLUV,Đại Học Hoa Lư,5340301,Kế toán,"A00, A01, D01, D07, XDHB",15,Học bạ,2022
+HLUV,Đại Học Hoa Lư,5340301,Kế toán,"A00, A01, D01, D07",15,TN THPT,2022
 HLUV,Đại Học Hoa Lư,7810101,Du lịch,"C00, D14, D15, D66",15,Học bạ,2022
 HLUV,Đại Học Hoa Lư,7810101,Du lịch,"C00, D14, D15, D66",15,TN THPT,2022
 HLUV,Đại Học Hoa Lư,7140247,Sư phạm khoa học tự nhiên,"A00, B00, D01, A02, XDHB",24,Học bạ,2022
@@ -852,7 +852,7 @@ DNU,Đại Học Đại Nam,7480101,Khoa học máy tính,"A00, A01, D10, D84, X
 DNU,Đại Học Đại Nam,7340120,Kinh doanh quốc tế,"A00, D01, C03, D10, XDHB",18,Học bạ,2022
 DNU,Đại Học Đại Nam,7510605,Logistics và Quản lý chuỗi cung ứng,"A00, D01, C03, D10, XDHB",18,Học bạ,2022
 DNU,Đại Học Đại Nam,7810301,Quản lý thể dục thể thao,"A00, C03, C14, C10",18,Học bạ,2022
-DNU,Đại Học Đại Nam,Khoa học máy tính,Khoa học máy tính,"A00, A01, D10, D84",15,,2022
+DNU,Đại Học Đại Nam,7480101,Khoa học máy tính,"A00, A01, D10, D84",15,,2022
 DNU,Đại Học Đại Nam,7340120,Kinh doanh quốc tế,"A00, A01, C03, C10",15,,2022
 DNU,Đại Học Đại Nam,7810301,Quản lý thể dục thể thao,"A00, C03, C14, C10",15,,2022
 DNU,Đại Học Đại Nam,7510605,Logistics và Quản lý chuỗi cung ứng,"A00, D14, C03, D10",15,,2022
@@ -1308,9 +1308,9 @@ TTU,Đại học Tân Trào,7620115,Kinh tế,"A00, A01, D01",15,"KINH TẾ NÔN
 TN THPT",2022
 TTU,Đại học Tân Trào,7620110,Khoa học cây trồng,"A00, B00, A01",15,TN THPT,2022
 TTU,Đại học Tân Trào,7850103,Quản lý đất đai,"A00, B00, A01",15,TN THPT,2022
-TTU,Đại học Tân Trào,71140209,Sư phạm Toán học,"A00, B00, A01",19,TN THPT,2022
-TTU,Đại học Tân Trào,71140213,Sư phạm Sinh học,"A00, B00, B04",19,TN THPT,2022
-TTU,Đại học Tân Trào,51140201,Giáo dục Mầm non,"M00, M05, M07",19,TN THPT,2022
+TTU,Đại học Tân Trào,7140209,Sư phạm Toán học,"A00, B00, A01",19,TN THPT,2022
+TTU,Đại học Tân Trào,7140213,Sư phạm Sinh học,"A00, B00, B04",19,TN THPT,2022
+TTU,Đại học Tân Trào,5140201,Giáo dục Mầm non,"M00, M05, M07",19,TN THPT,2022
 TTU,Đại học Tân Trào,7140201,Giáo dục Mầm non,"M00, M05, M07",17,"HỆ CAO ĐẲNG
 TN THPT",2022
 TTU,Đại học Tân Trào,7760101,Công tác xã hội,"D01, C00, C19",15,TN THPT,2022
@@ -1821,36 +1821,36 @@ DAV,Học Viện Ngoại Giao,HQT05,Truyền thông quốc tế,"D03, D04",25.15
 TCP: Ngoại ngữ >=8.6",2022
 DAV,Học Viện Ngoại Giao,HQT05,Truyền thông quốc tế,C00,28.35,"Điểm thi TN THPT\t
 TCP:  Ngữ văn >=8.6",2022
-DAV,Học Viện Ngoại Giao,HQT02,Quan hệ quốc tế,"D03, D04, XDHB",29.97,Học bạ,2022
+DAV,Học Viện Ngoại Giao,HQT01,Quan hệ quốc tế,"D03, D04, XDHB",29.97,Học bạ,2022
 DAV,Học Viện Ngoại Giao,HQT06,Kinh doanh quốc tế,A00,26.6,"Điểm thi TN THPT\t
 TCP: Toán >=9",2022
 DAV,Học Viện Ngoại Giao,HQT06,Kinh doanh quốc tế,"A00, A01, D07, D06",26.6,"Điểm thi TN THPT\t
 TCP: Ngoại ngữ >=9",2022
 DAV,Học Viện Ngoại Giao,7340120,Kinh doanh quốc tế,"D03, D04",25.6,Điểm thi TN THPT TCP: Ngoại ngữ >=9,2022
-DAV,Học Viện Ngoại Giao,HQT03,Quan hệ quốc tế,"C00, XDHB",31.97,Học bạ,2022
+DAV,Học Viện Ngoại Giao,HQT01,Quan hệ quốc tế,"C00, XDHB",31.97,Học bạ,2022
 DAV,Học Viện Ngoại Giao,HQT02,Ngôn ngữ Anh,"A01, D01, D07, XDHB",40.24,Học bạ,2022
 DAV,Học Viện Ngoại Giao,HQT03,Kinh tế,"A00, A01, D01, D06, D07, XDHB",31.05,Học bạ,2022
-DAV,Học Viện Ngoại Giao,HQT04,Kinh tế,"C00, XDHB",30.05,Học bạ,2022
+DAV,Học Viện Ngoại Giao,HQT03,Kinh tế,"C00, XDHB",30.05,Học bạ,2022
 DAV,Học Viện Ngoại Giao,HQT04,Luật,"A01, D01, D06, D07, XDHB",30.73,Học bạ,2022
-DAV,Học Viện Ngoại Giao,HQT05,Luật,"D03, D04, XDHB",29.73,Học bạ,2022
-DAV,Học Viện Ngoại Giao,HQT06,Luật,"C00, XDHB",31.73,Học bạ,2022
+DAV,Học Viện Ngoại Giao,HQT04,Luật,"D03, D04, XDHB",29.73,Học bạ,2022
+DAV,Học Viện Ngoại Giao,HQT04,Luật,"C00, XDHB",31.73,Học bạ,2022
 DAV,Học Viện Ngoại Giao,HQT05,Truyền thông quốc tế,"A01, D01, D06, D07, XDHB",31.18,Học bạ,2022
-DAV,Học Viện Ngoại Giao,HQT06,Truyền thông quốc tế,"D03, D04, XDHB",30.18,Học bạ,2022
-DAV,Học Viện Ngoại Giao,HQT07,Truyền thông quốc tế,"C00, XDHB",32.18,Học bạ,2022
+DAV,Học Viện Ngoại Giao,HQT05,Truyền thông quốc tế,"D03, D04, XDHB",30.18,Học bạ,2022
+DAV,Học Viện Ngoại Giao,HQT05,Truyền thông quốc tế,"C00, XDHB",32.18,Học bạ,2022
 DAV,Học Viện Ngoại Giao,HQT06,Kinh doanh quốc tế,"A00, A01, D01, D06, D07, XDHB",31.08,Học bạ,2022
-DAV,Học Viện Ngoại Giao,HQT07,Kinh doanh quốc tế,"D03, D04, XDHB",30.08,Học bạ,2022
-DAV,Học Viện Ngoại Giao,HQT07,Luật,"A01, D01, D06, D07, XDHB",30.83,"Luật thương mại quốc tế, Học bạ",2022
-DAV,Học Viện Ngoại Giao,HQT08,Luật,"D03, D04, XDHB",29.83,Học bạ,2022
-DAV,Học Viện Ngoại Giao,HQT09,Luật,"C00, XDHB",31.83,Học bạ,2022
+DAV,Học Viện Ngoại Giao,HQT06,Kinh doanh quốc tế,"D03, D04, XDHB",30.08,Học bạ,2022
+DAV,Học Viện Ngoại Giao,HQT04,Luật,"A01, D01, D06, D07, XDHB",30.83,"Luật thương mại quốc tế, Học bạ",2022
+DAV,Học Viện Ngoại Giao,HQT04,Luật,"D03, D04, XDHB",29.83,Học bạ,2022
+DAV,Học Viện Ngoại Giao,HQT04,Luật,"C00, XDHB",31.83,Học bạ,2022
 DAV,Học Viện Ngoại Giao,HQT08-01,Hàn Quốc học,"A01, D01, D07, XDHB",30.73,Học bạ,2022
-DAV,Học Viện Ngoại Giao,HQT08-02,Hàn Quốc học,"C00, XDHB",31.73,Học bạ,2022
+DAV,Học Viện Ngoại Giao,HQT08-01,Hàn Quốc học,"C00, XDHB",31.73,Học bạ,2022
 DAV,Học Viện Ngoại Giao,HQT08-02,Hoa Kỳ học,"A01, D01, D07, XDHB",30.63,Học bạ,2022
-DAV,Học Viện Ngoại Giao,HQT08-03,Hoa Kỳ học,"C00, XDHB",31.63,Học bạ,2022
+DAV,Học Viện Ngoại Giao,HQT08-02,Hoa Kỳ học,"C00, XDHB",31.63,Học bạ,2022
 DAV,Học Viện Ngoại Giao,HQT08-03,Nhật Bản học,"A01, D01, D06, D07, XDHB",30.61,Học bạ,2022
-DAV,Học Viện Ngoại Giao,HQT08-04,Nhật Bản học,"C00, XDHB",31.61,Học bạ,2022
+DAV,Học Viện Ngoại Giao,HQT08-03,Nhật Bản học,"C00, XDHB",31.61,Học bạ,2022
 DAV,Học Viện Ngoại Giao,HQT08-04,Trung Quốc học,"A01, D01, D07, XDHB",30.72,Học bạ,2022
-DAV,Học Viện Ngoại Giao,HQT08-05,Trung Quốc học,"D04, XDHB",29.72,Học bạ,2022
-DAV,Học Viện Ngoại Giao,HQT08-06,Trung Quốc học,"C00, XDHB",31.72,Học bạ,2022
+DAV,Học Viện Ngoại Giao,HQT08-04,Trung Quốc học,"D04, XDHB",29.72,Học bạ,2022
+DAV,Học Viện Ngoại Giao,HQT08-04,Trung Quốc học,"C00, XDHB",31.72,Học bạ,2022
 DAV,Học Viện Ngoại Giao,HQT07,Luật,"A01, D01, D07, D06",26.75,"Luật Thương mại Quốc tế
 Điểm thi TN THPT TCP: Ngoại ngữ >=8.5",2022
 DAV,Học Viện Ngoại Giao,HQT07,Luật,C00,27.75,"Luật Thương mại Quốc tế
@@ -1956,7 +1956,7 @@ TGU,Đại Học Tiền Giang,7340201,Tài chính - Ngân hàng,"A00, A01, D01, 
 TGU,Đại Học Tiền Giang,7340201,Tài chính - Ngân hàng,"A00, A01, D01, D90, XDHB",22.11,Học bạ,2022
 TGU,Đại Học Tiền Giang,7310101,Kinh tế,"A00, A01, D01, D90",21.25,TN THPT,2022
 TGU,Đại Học Tiền Giang,7310101,Kinh tế,"A00, A01, D01, D90, XDHB",20.31,Học bạ,2022
-TGU,Đại Học Tiền Giang,7380101,Luật,"A01, D01, C00, D66",212.75,TN THPT,2022
+TGU,Đại Học Tiền Giang,7380101,Luật,"A01, D01, C00, D66",21.75,TN THPT,2022
 TGU,Đại Học Tiền Giang,7380101,Luật,"A01, D01, C00, D66, XDHB",22.44,Học bạ,2022
 TGU,Đại Học Tiền Giang,7540101,Công nghệ thực phẩm,"A00, B00, B08, A01",15,TN THPT,2022
 TGU,Đại Học Tiền Giang,7540101,Công nghệ thực phẩm,"A00, B00, B08, A01, XDHB",18.45,Học bạ,2022
@@ -2174,17 +2174,17 @@ TDU,Đại Học Thành Đông,7810201,Quản trị khách sạn,"A00, A01, D01,
 TDU,Đại Học Thành Đông,7510205,Công nghệ kỹ thuật ô tô,"A00, A01, D01, C01",14,TN THPT,2022
 TDU,Đại Học Thành Đông,7720601,Kỹ thuật xét nghiệm y học,"A00, B00, A02",19,TN THPT,2022
 TDU,Đại Học Thành Đông,7520216,Kỹ thuật Điều khiển - Tự động hóa,"A00, A01, D07, D08",14,TN THPT,2022
-HĐU,Đại Học Hồng Đức,7140209CLC,Sư phạm Toán học,"A00, A01, D07, A02",35.43,"3 năm THPT có hạnh kiểm tốt và học lực khá trở lên, Điểm thi TN THPT",2022
+HĐU,Đại Học Hồng Đức,7140209CLC,Sư phạm Toán học,"A00, A01, D07, A02",35.43,"CLC, thang 40, 3 năm THPT có hạnh kiểm tốt và học lực khá trở lên, Điểm thi TN THPT",2022
 HĐU,Đại Học Hồng Đức,7140112,Sư phạm Hóa học,"A00, B00, D07",24.35,Điểm thi TN THPT,2022
 HĐU,Đại Học Hồng Đức,7140213,Sư phạm Sinh học,"B00, B03, D08",19,Điểm thi TN THPT,2022
-HĐU,Đại Học Hồng Đức,7140217CLC,Sư phạm Ngữ văn,"D01, C00, C19, C20",39.92,"3 năm THPT có hạnh kiểm tốt và học lực khá trở lên, Điểm thi TN THPT",2022
-HĐU,Đại Học Hồng Đức,7140218CLC,Sư phạm Lịch sử,"C00, D14, C19, C03",39.92,"3 năm THPT có hạnh kiểm tốt và học lực khá trở lên, Điểm thi TN THPT",2022
+HĐU,Đại Học Hồng Đức,7140217CLC,Sư phạm Ngữ văn,"D01, C00, C19, C20",39.92,"CLC, thang 40, 3 năm THPT có hạnh kiểm tốt và học lực khá trở lên, Điểm thi TN THPT",2022
+HĐU,Đại Học Hồng Đức,7140218CLC,Sư phạm Lịch sử,"C00, D14, C19, C03",39.92,"CLC, thang 40, 3 năm THPT có hạnh kiểm tốt và học lực khá trở lên, Điểm thi TN THPT",2022
 HĐU,Đại Học Hồng Đức,7140219,Sư phạm Địa lý,"A00, C00, C04, C20",27.5,Điểm thi TN THPT,2022
 HĐU,Đại Học Hồng Đức,7140231,Sư phạm Tiếng Anh,"A01, D01, D14, D66",24.2,Điểm thi TN THPT,2022
 HĐU,Đại Học Hồng Đức,7140202,Giáo dục Tiểu học,"A00, D01, C00, M00",26.5,Điểm thi TN THPT,2022
 HĐU,Đại Học Hồng Đức,7140201,Giáo dục Mầm non,"M00, M03, M05, M07",23.1,Điểm thi TN THPT,2022
 HĐU,Đại Học Hồng Đức,7140203,Giáo dục Thể chất,"T00, T02, T05, T07",18,Điểm thi TN THPT,2022
-HĐU,Đại Học Hồng Đức,7240301,Kế toán,"A00, D01, C04, C14",19.4,Điểm thi TN THPT,2022
+HĐU,Đại Học Hồng Đức,7340301,Kế toán,"A00, D01, C04, C14",19.4,Điểm thi TN THPT,2022
 HĐU,Đại Học Hồng Đức,7340101,Quản trị kinh doanh,"A00, D01, C04, C14",16.15,Điểm thi TN THPT,2022
 HĐU,Đại Học Hồng Đức,7340201,Tài chính - Ngân hàng,"A00, D01, C04, C14",17.1,Điểm thi TN THPT,2022
 HĐU,Đại Học Hồng Đức,7340302,Kiểm toán,"A00, D01, C04, C14",15,Điểm thi TN THPT,2022
@@ -2271,7 +2271,7 @@ DTHU,Đại Học Đồng Tháp,7140249,Sư phạm Lịch sử Địa lý,DGNLHC
 DTHU,Đại Học Đồng Tháp,7140247,Sư phạm khoa học tự nhiên,DGNLHCM,701,,2022
 DTHU,Đại Học Đồng Tháp,7480101,Khoa học máy tính,DGNLHCM,615,,2022
 DTHU,Đại Học Đồng Tháp,7220201,Ngôn ngữ Anh,DGNLHCM,615,,2022
-DTHU,Đại Học Đồng Tháp,7410201,Giáo dục Mầm non,"M00, M05, M07, M11",19,TN THPT,2022
+DTHU,Đại Học Đồng Tháp,7140201,Giáo dục Mầm non,"M00, M05, M07, M11",19,TN THPT,2022
 DTHU,Đại Học Đồng Tháp,7140206,Giáo dục Thể chất,"T00, T05, T07, T06",18,TN THPT,2022
 DTHU,Đại Học Đồng Tháp,7140221,Sư phạm Âm nhạc,"N00, N01",18,TN THPT,2022
 DTHU,Đại Học Đồng Tháp,7140222,Sư phạm Mỹ thuật,"N00, N01",18,TN THPT,2022
@@ -2279,7 +2279,7 @@ DTHU,Đại Học Đồng Tháp,7140247,Sư phạm khoa học tự nhiên,"A00, 
 DTHU,Đại Học Đồng Tháp,7140249,Sư phạm Lịch sử Địa lý,"C00, D14, D15, A07",23.25,TN THPT,2022
 DTHU,Đại Học Đồng Tháp,7220201,Ngôn ngữ Anh,"D01, D14, D15, D13",16,TN THPT,2022
 DTHU,Đại Học Đồng Tháp,7480101,Khoa học máy tính,"A00, A01, A02, A04",15,TN THPT,2022
-DTHU,Đại Học Đồng Tháp,71140201,Giáo dục Mầm non,"M00, M05, M07, M11",17,"TN THPT
+DTHU,Đại Học Đồng Tháp,7140201,Giáo dục Mầm non,"M00, M05, M07, M11",17,"TN THPT
 HỆ CAO ĐẲNG",2022
 EPU,Đại Học Điện Lực,7510303,Công nghệ kỹ thuật điều khiển và tự động hóa,"A00, A01, D01, D07",23.25,Điểm thi TN THPT,2022
 EPU,Đại Học Điện Lực,7510302,Công nghệ kỹ thuật điện tử - viễn thông,"A00, A01, D01, D07",23.5,Điểm thi TN THPT,2022
@@ -4352,9 +4352,11 @@ Anh X 2",2022
 NEU,Đại Học Kinh Tế Quốc Dân,7810201,Quản trị khách sạn,"A01, D01, D09, D10",26.85,TN THPT,2022
 NEU,Đại Học Kinh Tế Quốc Dân,EP04,Kế toán,"A00, A01, D01, D07",26.8,"Tích hợp chứng chỉ quốc tế
 TN THPT",2022
-NEU,Đại Học Kinh Tế Quốc Dân,EP02,Định phí Bảo hiểm & Quản trị rủi ro,"A00, A01, D01, D07",26.4,TN THPT,2022
+NEU,Đại Học Kinh Tế Quốc Dân,EP02,Định phí Bảo hiểm & Quản trị rủi ro,"A00, A01, D01, D07",26.4,"TN THPT
+Anh X 2",2022
 NEU,Đại Học Kinh Tế Quốc Dân,EP03,Khoa học dữ liệu,"A00, A01, D01, D07",26.5,"Khoa học dữ liệu trong kinh tế & kinh doanh
-TN THPT",2022
+TN THPT
+Anh X 2",2022
 NEU,Đại Học Kinh Tế Quốc Dân,EP10,Đầu tư tài chính,"A01, D01, D07, D10",36.25,"TN THPT
 Anh X 2",2022
 NEU,Đại Học Kinh Tế Quốc Dân,EP08,Quản trị chất lượng và Đổi mới,"A01, D01, D07, D10",26.45,TN THPT,2022
@@ -5982,10 +5984,10 @@ HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7340405,Hệ thống thông
 HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7903124,Song ngành Kinh tế - Tài chính,"A00, A01, D01, C15, XDHB",22,"Học bạ, đào tạo theo chương trình tiên tiến, giảng dạy bằng tiếng Anh",2022
 HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7349001,Tài chính - Ngân hàng,"A00, D01, D90, D03, XDHB",22,"Học bạ, Chương trình liên kết với Đại học Rennes",2022
 HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7310101,Kinh tế,"A00, A01, D01, C15, XDHB",24,Học bạ,2022
-HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7620115,Kinh tế,"A00, A01, D01, C15, XDHB",18,"Học bạ, Kinh tế nông nghiệp",2022
+HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7310115,Kinh tế,"A00, A01, D01, C15, XDHB",18,"Học bạ, Kinh tế nông nghiệp",2022
 HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7340101CL,Quản trị kinh doanh,"A00, A01, D01, C15, XDHB",25,Học bạ,2022
 HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7310107,Thống kê kinh tế,"A00, A01, D01, A16, XDHB",18,Học bạ,2022
-HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7430302,Kiểm toán,"A00, A01, D01, C15",17,Điểm thi TN THPT,2022
+HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7340302,Kiểm toán,"A00, A01, D01, C15",17,Điểm thi TN THPT,2022
 HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7340302CL,Kiểm toán,"A00, A01, D01, C15",17,"Chất lượng cao, Điểm thi TN THPT",2022
 HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7340302CL,Kiểm toán,"A00, A01, D01, C15, XDHB",24,Học bạ,2022
 HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7310101CL,Kinh tế,"A00, A01, D01, C15",16,"Chuyên ngành KH-ĐT, Điểm thi TN THPT",2022
@@ -6368,7 +6370,7 @@ VNU - UL,UL - Đại Học Luật – Đại Học Quốc Gia Hà Nội,7380101,
 VNU - UL,UL - Đại Học Luật – Đại Học Quốc Gia Hà Nội,7380101,Luật,DGNLQGHN,18.1,,2022
 VNU - UL,UL - Đại Học Luật – Đại Học Quốc Gia Hà Nội,7380101CLC,Luật,DGNLQGHN,17,Luật chất lượng cao,2022
 VNU - UL,UL - Đại Học Luật – Đại Học Quốc Gia Hà Nội,7380101CLC,Luật,"A01, D01, D07, D78",24.7,"CLC, Điểm thi TN THPT, Tiêu chí phụ: 8.000 96",2022
-VNU - UL,UL - Đại Học Luật – Đại Học Quốc Gia Hà Nội,7390109,Luật,DGNLQGHN,19.95,Luật thương mại quốc tế,2022
+VNU - UL,UL - Đại Học Luật – Đại Học Quốc Gia Hà Nội,7380109,Luật,DGNLQGHN,19.95,Luật thương mại quốc tế,2022
 VNU - UL,UL - Đại Học Luật – Đại Học Quốc Gia Hà Nội,7380110,Luật,"A00, A01, D01, D90, D03, D91",25.1,"Luật kinh doanh, Điểm thi TN THPT, Tiêu chí phụ: 24.3500 96",2022
 VNU - UL,UL - Đại Học Luật – Đại Học Quốc Gia Hà Nội,7380110,Luật,DGNLQGHN,18.95,Luật kinh doanh,2022
 VNU - UL,UL - Đại Học Luật – Đại Học Quốc Gia Hà Nội,7380109,Luật,"A00, A01, D01, D78, D82",25.7,"Luật thương mại quốc tế, Điểm thi TN THPT, Tiêu chí phụ: 25.2000 96",2022
@@ -7128,49 +7130,49 @@ HSB,Trường Quản Trị và Kinh Doanh - Đại học Quốc gia Hà Nội,79
 HSB,Trường Quản Trị và Kinh Doanh - Đại học Quốc gia Hà Nội,7900103,Quản trị nhân lực,"D01, D96, D09, D10",20.05,"Quản trị Nhân lực và Nhân tài
 TN THPT",2022
 HSB,Trường Quản Trị và Kinh Doanh - Đại học Quốc gia Hà Nội,7900189,Quản trị và An ninh,"A01, D01, D07, D08",22.05,TN THPT,2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,108,Kỹ thuật Điện;Kỹ thuật Điện tử - Viễn thông;Kỹ thuật Điều khiển và tự động hóa;(Nhóm ngành),"A00, A01",60,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,225,Quản lý tài nguyên và môi trường,"A00, B00, A01, D07",60.26,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,110,Kỹ thuật cơ điện tử,"A00, A01",62.57,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,208,"Kỹ thuật điện, điện tử","A00, A01",60,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,219,Công nghệ thực phẩm,"A00, B00, D07",63.22,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,223,Quản lý công nghiệp,"A00, A01, D01, D07",60.01,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,115,Kỹ thuật xây dựng,"A00, A01",56.1,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,207,Kỹ thuật máy tính,"A00, A01",65,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,220,Kỹ thuật dầu khí,"A00, A01",60.01,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,107,Kỹ thuật máy tính,"A00, A01",66.86,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,214,Kỹ thuật hoá học,"A00, B00, D07",60.01,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,209,Kỹ thuật cơ khí,"A00, A01",60.02,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,109,Kỹ thuật cơ khí,"A00, A01",60.29,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,206,Khoa học máy tính,"A00, A01",67.24,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,242,Kỹ thuật ô tô,"A00, A01",60.13,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,128,Kỹ thuật Hệ thống Công nghiệp;Logistics và Quản lý chuỗi Cung ứng;(Nhóm ngành),"A00, A01",61.27,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,114,Kỹ thuật Hóa học;Công nghệ Thực phẩm;Công nghệ Sinh học;(Nhóm ngành),"A00, B00, D07",58.68,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,125,Kỹ thuật Môi trường;Quản lý Tài nguyên và Môi trường;(Nhóm ngành),"A00, B00, A01, D07",60.26,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,145,Kỹ thuật Tàu thủy;Kỹ thuật Hàng không;(Nhóm ngành),"A00, A01",54.6,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,120,Kỹ thuật Địa chất;Kỹ thuật Dầu khí;(Nhóm ngành),"A00, A01",60.35,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,112,Kỹ thuật Dệt;Công nghệ Dệt May;(Nhóm ngành),"A00, A01",58.08,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,140,Công nghệ Kỹ thuật Nhiệt (Cơ điện lạnh),"A00, A01",57.97,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,141,Bảo dưỡng Công nghiệp,"A00, A01",59.51,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,229,Kỹ thuật vật liệu,"A00, A01, D07",60.01,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,108,Kỹ thuật Điện;Kỹ thuật Điện tử - Viễn thông;Kỹ thuật Điều khiển và tự động hóa;(Nhóm ngành),"A00, A01, DGNL",60,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,225,Quản lý tài nguyên và môi trường,"A00, B00, A01, D07, DGNL",60.26,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,110,Kỹ thuật cơ điện tử,"A00, A01, DGNL",62.57,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,208,"Kỹ thuật điện, điện tử","A00, A01, DGNL",60,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,219,Công nghệ thực phẩm,"A00, B00, D07, DGNL",63.22,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,223,Quản lý công nghiệp,"A00, A01, D01, D07, DGNL",60.01,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,115,Kỹ thuật xây dựng,"A00, A01, DGNL",56.1,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,207,Kỹ thuật máy tính,"A00, A01, DGNL",65,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,220,Kỹ thuật dầu khí,"A00, A01, DGNL",60.01,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,107,Kỹ thuật máy tính,"A00, A01, DGNL",66.86,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,214,Kỹ thuật hoá học,"A00, B00, D07, DGNL",60.01,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,209,Kỹ thuật cơ khí,"A00, A01, DGNL",60.02,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,109,Kỹ thuật cơ khí,"A00, A01, DGNL",60.29,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,206,Khoa học máy tính,"A00, A01, DGNL",67.24,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,242,Kỹ thuật ô tô,"A00, A01, DGNL",60.13,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,128,Kỹ thuật Hệ thống Công nghiệp;Logistics và Quản lý chuỗi Cung ứng;(Nhóm ngành),"A00, A01, DGNL",61.27,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,114,Kỹ thuật Hóa học;Công nghệ Thực phẩm;Công nghệ Sinh học;(Nhóm ngành),"A00, B00, D07, DGNL",58.68,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,125,Kỹ thuật Môi trường;Quản lý Tài nguyên và Môi trường;(Nhóm ngành),"A00, B00, A01, D07",60.26,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,145,Kỹ thuật Tàu thủy;Kỹ thuật Hàng không;(Nhóm ngành),"A00, A01, DGNL",54.6,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,120,Kỹ thuật Địa chất;Kỹ thuật Dầu khí;(Nhóm ngành),"A00, A01, DGNL",60.35,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,112,Kỹ thuật Dệt;Công nghệ Dệt May;(Nhóm ngành),"A00, A01, DGNL",58.08,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,140,Công nghệ Kỹ thuật Nhiệt (Cơ điện lạnh),"A00, A01, DGNL",57.97,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,141,Bảo dưỡng Công nghiệp,"A00, A01, DGNL",59.51,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,229,Kỹ thuật vật liệu,"A00, A01, D07",60.01,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ
 Chuyên ngành Kỹ thuật vật liệu công nghệ cao",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,123,Quản lý công nghiệp,"A00, A01",57.98,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,129,Kỹ thuật vật liệu,"A00, A01, D07",59.62,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,137,Vật lý kỹ thuật,"A00, A01",61.01,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,142,Kỹ thuật ô tô,"A00, A01",60.13,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,138,Cơ Kỹ thuật,"A00, A01",63.17,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,117,Kiến trúc,"A01, C01",57.74,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,106,Khoa học máy tính,"A00, A01",75.99,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,210,Kỹ thuật cơ điện tử,"A00, A01",64.99,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,211,Kỹ thuật cơ điện tử,"A00, A01",64.33,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,215,Công nghệ kỹ thuật công trình xây dựng,"A00, A01",60.01,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,217,Kiến trúc,"A01, C01",60.01,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,228,Logistics và Quản lý chuỗi cung ứng,"A00, A01",64.8,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,237,Vật lý kỹ thuật,"A00, A01",62.01,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,123,Quản lý công nghiệp,"A00, A01, DGNL",57.98,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,129,Kỹ thuật vật liệu,"A00, A01, D07",59.62,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,137,Vật lý kỹ thuật,"A00, A01, DGNL",61.01,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,142,Kỹ thuật ô tô,"A00, A01, DGNL",60.13,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,138,Cơ Kỹ thuật,"A00, A01, DGNL",63.17,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,117,Kiến trúc,"A01, C01, DGNL",57.74,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,106,Khoa học máy tính,"A00, A01, DGNL",75.99,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,210,Kỹ thuật cơ điện tử,"A00, A01, DGNL",64.99,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,211,Kỹ thuật cơ điện tử,"A00, A01, DGNL",64.33,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,215,Công nghệ kỹ thuật công trình xây dựng,"A00, A01, DGNL",60.01,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,217,Kiến trúc,"A01, C01, DGNL",60.01,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,228,Logistics và Quản lý chuỗi cung ứng,"A00, A01, DGNL",64.8,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,237,Vật lý kỹ thuật,"A00, A01, DGNL",62.01,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ
 Chuyên ngành Kỹ thuật Y sinh",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,245,Kỹ thuật Hàng không,"A00, A01",67.14,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,266,Khoa học máy tính,"A00, A01",61.92,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,268,Cơ Kỹ thuật,"A00, A01",62.37,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
-VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,218,Công nghệ sinh học,"A00, B00, B08, D07",63.99,"Xét kết hợp điểm hợp ĐGNL, TN THPT, Học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,245,Kỹ thuật Hàng không,"A00, A01, DGNL",67.14,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,266,Khoa học máy tính,"A00, A01, DGNL",61.92,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,268,Cơ Kỹ thuật,"A00, A01, DGNL",62.37,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
+VNUHCM-UT,UT - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM,218,Công nghệ sinh học,"A00, B00, B08, D07",63.99,"Xét kết hợp điểm hợp ĐGNL, TN THPT, và học bạ",2022
 HCMIU,Đại Học Quốc Tế – Đại Học Quốc Gia TPHCM,7520216,Kỹ thuật điều khiển và tự động hoá,DGNLHCM,680,,2022
 HCMIU,Đại Học Quốc Tế – Đại Học Quốc Gia TPHCM,7510605,Logistics và Quản lý chuỗi cung ứng,DGNLHCM,870,,2022
 HCMIU,Đại Học Quốc Tế – Đại Học Quốc Gia TPHCM,7520207,Kỹ thuật điện tử - viễn thông,DGNLHCM,660,,2022
@@ -7530,17 +7532,17 @@ NLU,Phân hiệu Đại học Nông Lâm TP. HCM tại Ninh Thuận,7420201N,Cô
 NLU,Phân hiệu Đại học Nông Lâm TP. HCM tại Ninh Thuận,7540101N,Công nghệ thực phẩm,"A00, B00, A01, D08, XDHB",15,ĐIỂM TN THPT,2022
 NLU,Phân hiệu Đại học Nông Lâm TP. HCM tại Ninh Thuận,7420201N,Công nghệ sinh học,DGNLHCM,700,,2022
 NLU,Phân hiệu Đại học Nông Lâm TP. HCM tại Ninh Thuận,7540101N,Công nghệ thực phẩm,DGNLHCM,700,,2022
-ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220204,Ngôn ngữ Trung Quốc,"D01, D90, D78, D04",35.32,Điểm thi TN THPT,2022
-ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220210,Ngôn ngữ Hàn Quốc,"D01, D90, D78, DD2",34.92,Điểm thi TN THPT,2022
-ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220203,Ngôn ngữ Pháp,"D01, D90, D78, D03",32.99,Điểm thi TN THPT,2022
-ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220209,Ngôn ngữ Nhật,"D01, D90, D78, D06",34.23,Điểm thi TN THPT,2022
-ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220205,Ngôn ngữ Đức,"D01, D90, D78, D05",32.83,Điểm thi TN THPT,2022
-ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220201,Ngôn ngữ Anh,"D01, D90, D78",35.57,Điểm thi TN THPT,2022
-ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7140234,Sư phạm Tiếng Trung Quốc,"D01, D90, D78, D04",38.46,Điểm thi TN THPT,2022
-ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7140237,Sư phạm Tiếng Hàn Quốc,"D01, D90, D78, DD2",35.92,Điểm thi TN THPT,2022
-ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7140236,Sư phạm Tiếng Nhật,"D01, D90, D78, D06",35.27,Điểm thi TN THPT,2022
-ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7140231,Sư phạm Tiếng Anh,"D01, D90, D78",38.1,Điểm thi TN THPT,2022
-ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220202,Ngôn ngữ Nga,"D01, D90, D78, D02",31.2,Điểm thi TN THPT,2022
+ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220204,Ngôn ngữ Trung Quốc,"D01, D90, D78, D04",35.32,"Điểm thi TN THPT, ngoại ngữ hệ số 2",2022
+ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220210,Ngôn ngữ Hàn Quốc,"D01, D90, D78, DD2",34.92,"Điểm thi TN THPT, ngoại ngữ hệ số 2",2022
+ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220203,Ngôn ngữ Pháp,"D01, D90, D78, D03",32.99,"Điểm thi TN THPT, ngoại ngữ hệ số 2",2022
+ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220209,Ngôn ngữ Nhật,"D01, D90, D78, D06",34.23,"Điểm thi TN THPT, ngoại ngữ hệ số 2",2022
+ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220205,Ngôn ngữ Đức,"D01, D90, D78, D05",32.83,"Điểm thi TN THPT, ngoại ngữ hệ số 2",2022
+ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220201,Ngôn ngữ Anh,"D01, D90, D78",35.57,"Điểm thi TN THPT, ngoại ngữ hệ số 2",2022
+ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7140234,Sư phạm Tiếng Trung Quốc,"D01, D90, D78, D04",38.46,"Điểm thi TN THPT, ngoại ngữ hệ số 2",2022
+ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7140237,Sư phạm Tiếng Hàn Quốc,"D01, D90, D78, DD2",35.92,"Điểm thi TN THPT, ngoại ngữ hệ số 2",2022
+ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7140236,Sư phạm Tiếng Nhật,"D01, D90, D78, D06",35.27,"Điểm thi TN THPT, ngoại ngữ hệ số 2",2022
+ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7140231,Sư phạm Tiếng Anh,"D01, D90, D78",38.1,"Điểm thi TN THPT, ngoại ngữ hệ số 2",2022
+ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220202,Ngôn ngữ Nga,"D01, D90, D78, D02",31.2,"Điểm thi TN THPT, ngoại ngữ hệ số 2",2022
 ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220204,Ngôn ngữ Trung Quốc,DGNLQGHN,105,,2022
 ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220210,Ngôn ngữ Hàn Quốc,DGNLQGHN,105,,2022
 ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220203,Ngôn ngữ Pháp,DGNLQGHN,90,,2022
@@ -7552,10 +7554,10 @@ ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7140237,S�
 ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7140236,Sư phạm Tiếng Nhật,DGNLQGHN,105,,2022
 ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7140231,Sư phạm Tiếng Anh,DGNLQGHN,105,,2022
 ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220202,Ngôn ngữ Nga,DGNLQGHN,90,,2022
-ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220211,Ngôn ngữ Ả Rập,"D01, D90, D78",30.49,Điểm thi TN THPT,2022
+ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220211,Ngôn ngữ Ả Rập,"D01, D90, D78",30.49,"Điểm thi TN THPT, ngoại ngữ hệ số 2",2022
 ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220211,Ngôn ngữ Ả Rập,DGNLQGHN,90,,2022
 ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7140235,Sư phạm Tiếng Đức,DGNLQGHN,105,,2022
-ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7140235,Sư phạm Tiếng Đức,"D01, D90, D78, D05",32.98,Điểm thi TN THPT,2022
+ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7140235,Sư phạm Tiếng Đức,"D01, D90, D78, D05",32.98,"Điểm thi TN THPT, ngoại ngữ hệ số 2",2022
 ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7903124QT,Kinh tế,"A01, D01, D90, D78",24.97,"CTĐT LKQT do nước ngoài cấp bằng, Điểm thi TN THPT",2022
 PTIT,Học Viện Công Nghệ Bưu Chính Viễn Thông (Phía Bắc),7510301,"Công nghệ kỹ thuật điện, điện tử","A00, A01",25.1,"TTNV<=2, Điểm thi TN THPT",2022
 PTIT,Học Viện Công Nghệ Bưu Chính Viễn Thông (Phía Bắc),7520207,Kỹ thuật điện tử - viễn thông,"A00, A01",25.6,"TTNV<=3, Điểm thi TN THPT",2022

@@ -169,7 +169,7 @@ DUT,Đại Học Bách Khoa – Đại Học Đà Nẵng,7520114CLC,Kỹ thuật
 DUT,Đại Học Bách Khoa – Đại Học Đà Nẵng,7520216CLC,Kỹ thuật điều khiển và tự động hoá,"A00, A01",24.7,Chất lượng caoĐiểm thi TN THPT,2021
 DUT,Đại Học Bách Khoa – Đại Học Đà Nẵng,7480201CLC2,Công nghệ thông tin,DGNL,896,"Chất lượng cao, Đặc thù - Hợp tác doanh nghiệp), chuyên ngành Khoa học dữ liệu và Trí tuệ nhân tạo",2021
 DUT,Đại Học Bách Khoa – Đại Học Đà Nẵng,7480201CLC1,Công nghệ thông tin,DGNL,886,"Chất lượng cao, Đặc thù - Hợp tác doanh nghiệp",2021
-DUT,Đại Học Bách Khoa – Đại Học Đà Nẵng,7520207CLC,Kỹ thuật điện tử - viễn thông,"A00, A01",667,Chất lượng cao),2021
+DUT,Đại Học Bách Khoa – Đại Học Đà Nẵng,7520207CLC,Kỹ thuật điện tử - viễn thông,DGNL,667,Chất lượng cao),2021
 DUT,Đại Học Bách Khoa – Đại Học Đà Nẵng,7480201CLC,Công nghệ thông tin,"A00, A01, D28",25.5,Chất lượng cao - tiếng NhậtĐiều kiện đi kèmĐiểm thi TN THPT,2021
 DUT,Đại Học Bách Khoa – Đại Học Đà Nẵng,7480201CLC,Công nghệ thông tin,DGNL,856,Chất lượng cao - tiếng Nhật,2021
 DUT,Đại Học Bách Khoa – Đại Học Đà Nẵng,7480201CLC1,Công nghệ thông tin,"A00, A01",26,Chất lượng cao - đặc thù - hợp tác doanh nghiệpĐiều kiện đi kèmXét điểm thi TN THPT,2021
@@ -182,12 +182,12 @@ DUT,Đại Học Bách Khoa – Đại Học Đà Nẵng,7520216CLC,Kỹ thuật
 DUT,Đại Học Bách Khoa – Đại Học Đà Nẵng,7580301,Kinh tế xây dựng,DGNLHCM,630,,2021
 DUT,Đại Học Bách Khoa – Đại Học Đà Nẵng,7520122,Kỹ thuật tàu thuỷ,DGNL,631,,2021
 DUT,Đại Học Bách Khoa – Đại Học Đà Nẵng,7420201,Công nghệ sinh học,DGNL,631,,2021
-DUT,Đại Học Bách Khoa – Đại Học Đà Nẵng,7520301,Kỹ thuật hoá học,"A00, D07",655,,2021
-DUT,Đại Học Bách Khoa – Đại Học Đà Nẵng,7540101,Công nghệ thực phẩm,"A00, B00, D07",666,,2021
+DUT,Đại Học Bách Khoa – Đại Học Đà Nẵng,7520301,Kỹ thuật hoá học,DGNL,655,,2021
+DUT,Đại Học Bách Khoa – Đại Học Đà Nẵng,7540101,Công nghệ thực phẩm,DGNL,666,,2021
 DUT,Đại Học Bách Khoa – Đại Học Đà Nẵng,7850101,Quản lý tài nguyên và môi trường,DGNL,679,,2021
 DUT,Đại Học Bách Khoa – Đại Học Đà Nẵng,7510601,Quản lý công nghiệp,DGNL,696,,2021
 DUT,Đại Học Bách Khoa – Đại Học Đà Nẵng,7520103B,Kỹ thuật cơ khí,DGNL,714,,2021
-DUT,Đại Học Bách Khoa – Đại Học Đà Nẵng,PFIEV,Chương trình đào tạo kỹ sư chất lượng cao Việt-Pháp,"A00, A01",714,,2021
+DUT,Đại Học Bách Khoa – Đại Học Đà Nẵng,PFIEV,Chương trình đào tạo kỹ sư chất lượng cao Việt-Pháp,DGNL,714,,2021
 DUT,Đại Học Bách Khoa – Đại Học Đà Nẵng,7510202,Công nghệ chế tạo máy,DGNL,714,,2021
 DUT,Đại Học Bách Khoa – Đại Học Đà Nẵng,7520103A,Kỹ thuật cơ khí,DGNL,714,,2021
 DUT,Đại Học Bách Khoa – Đại Học Đà Nẵng,7510701,Công nghệ dầu khí và khai thác dầu,DGNL,716,,2021
@@ -1653,7 +1653,7 @@ VMU,Đại Học Hàng Hải,7840104D401,Kinh tế,"A00, A01, D01, C01",25.35,,2
 VMU,Đại Học Hàng Hải,7840104D407,Logistics và Quản lý chuỗi cung ứng,"A00, A01, D01, C01",26.25,,2021
 VMU,Đại Học Hàng Hải,7220201D125,Ngôn ngữ Anh,"A01, D01, D14, D10",34.25,,2021
 VMU,Đại Học Hàng Hải,7220201D124,Tiếng Anh thương mại,"A01, D01, D14, D10",34.75,,2021
-VMU,Đại Học Hàng Hải,7520103D128,Máy và tự động công nghiệp,"A00, A01, D01, C01",221.35,,2021
+VMU,Đại Học Hàng Hải,7520103D128,Máy và tự động công nghiệp,"A00, A01, D01, C01",21.35,,2021
 HBU,Đại Học Hòa Bình,7210403,Thiết kế đồ họa,"H00, H01, V00, V01, V01",17.35,Môn vẽ >=5Điểm thi TN THPT,2021
 HBU,Đại Học Hòa Bình,7580108,Thiết kế nội thất,"H00, H01, V00, V01, V01",22.75,Môn vẽ >=5Điểm thi TN THPT,2021
 HBU,Đại Học Hòa Bình,7380107,Luật,"A00, D01, C00, D78",15.5,Luật kinh tếĐiểm thi TN THPT,2021
@@ -1671,7 +1671,7 @@ HBU,Đại Học Hòa Bình,7520207,Kỹ thuật điện tử - viễn thông,"A
 HBU,Đại Học Hòa Bình,7580201,Kỹ thuật xây dựng,"A00, A01, D01, D07, XDHB",15,Học bạ,2021
 HBU,Đại Học Hòa Bình,7320108,Quan hệ công chúng,"D01, C00, D15, D78, XDHB",15,Học bạ,2021
 HBU,Đại Học Hòa Bình,7320106,Công nghệ truyền thông,"A00, A01, D01, C01",15,Học bạ,2021
-HBU,Đại Học Hòa Bình,7750101,Công tác xã hội,"D01, C00, D78, D95, XDHB",15,Học bạ,2021
+HBU,Đại Học Hòa Bình,7760101,Công tác xã hội,"D01, C00, D78, D95, XDHB",15,Học bạ,2021
 HBU,Đại Học Hòa Bình,7810103,Quản trị dịch vụ du lịch và lữ hành,"D01, D96, C00, D72, XDHB",15,Học bạ,2021
 HBU,Đại Học Hòa Bình,7220201,Ngôn ngữ Anh,"D01, D14, D15, D78, XDHB",15,Học bạ,2021
 HBU,Đại Học Hòa Bình,7720201,Dược học,"A00, B00, D07, D08, XDHB",24,Học bạ,2021
@@ -1696,7 +1696,7 @@ HBU,Đại Học Hòa Bình,7329001,Công nghệ đa phương tiện,"A00, A01, 
 HLUV,Đại Học Hoa Lư,7140249,Sư phạm Lịch sử Địa lý,"C00, D14, C19, C20",19,Thi TN THPT,2021
 HLUV,Đại Học Hoa Lư,7340101,Quản trị kinh doanh,"A00, A01, D01, D07",14,Điểm TN THPT,2021
 HLUV,Đại Học Hoa Lư,7310630,Việt Nam học,"C00, D14, D15, D66",14,Điểm TN THPT,2021
-HLUV,Đại Học Hoa Lư,51340301,Kế toán,"A00, A01, D01, D07",14,Điểm TN THPT,2021
+HLUV,Đại Học Hoa Lư,5340301,Kế toán,"A00, A01, D01, D07",14,Điểm TN THPT,2021
 HLUV,Đại Học Hoa Lư,7810101,Du lịch,"C00, D14, D15, D66",14,Điểm TN THPT,2021
 HLUV,Đại Học Hoa Lư,5140201,Giáo dục Mầm non,M00,17,Điểm TN THPT,2021
 HLUV,Đại Học Hoa Lư,7140202,Giáo dục Tiểu học,"A00, A01, D01, C00",19,Điểm TN THPT,2021
@@ -1745,7 +1745,7 @@ HĐU,Đại Học Hồng Đức,7140209CLC,Sư phạm Toán học,"A00, A01, D07
 HĐU,Đại Học Hồng Đức,7140218CLC,Sư phạm Lịch sử,"C00, D14, C19, C03",29.75,Điểm thi TN THPT (hệ CLC),2021
 HĐU,Đại Học Hồng Đức,7140217CLC,Sư phạm Ngữ văn,"D01, C00, C19, C20",30.5,Điểm thi TN THPT (hệ CLC),2021
 HĐU,Đại Học Hồng Đức,51140201,Giáo dục Mầm non,"M00, M03, M05, M07",17,Điểm thi TN THPT  (hệ cao đẳng),2021
-HĐU,Đại Học Hồng Đức,7240301,Kế toán,"A00, D01, C04, C14",15,Điểm thi TN THPT,2021
+HĐU,Đại Học Hồng Đức,7340301,Kế toán,"A00, D01, C04, C14",15,Điểm thi TN THPT,2021
 HĐU,Đại Học Hồng Đức,7340101,Quản trị kinh doanh,"A00, D01, C04, C14",15,Điểm thi TN THPT,2021
 HĐU,Đại Học Hồng Đức,7340201,Tài chính - Ngân hàng,"A00, D01, C04, C14",15,Điểm thi TN THPT,2021
 HĐU,Đại Học Hồng Đức,7340302,Kiểm toán,"A00, D01, C04, C14",15,Điểm thi TN THPT,2021
@@ -2808,12 +2808,12 @@ UIFA,Đại Học Mỹ Thuật Công Nghiệp,7210103,Hội hoạ,"H00, H07",17.
 UIFA,Đại Học Mỹ Thuật Công Nghiệp,7580108,Thiết kế nội thất,"H00, H07",19.32,,2021
 UIFA,Đại Học Mỹ Thuật Công Nghiệp,7210404,Thiết kế thời trang,"H00, H07",20,,2021
 UIFA,Đại Học Mỹ Thuật Công Nghiệp,7210403,Thiết kế đồ họa,"H00, H07",21.38,,2021
-VUFA,Đại Học Mỹ Thuật Việt Nam,52210101,"Lý luận, lịch sử và phê bình mỹ thuật",,0,,2021
-VUFA,Đại Học Mỹ Thuật Việt Nam,52210403,Thiết kế đồ họa,,0,,2021
-VUFA,Đại Học Mỹ Thuật Việt Nam,52140222,Sư phạm Mỹ thuật,,0,,2021
-VUFA,Đại Học Mỹ Thuật Việt Nam,52210105,Điêu khắc,,0,,2021
-VUFA,Đại Học Mỹ Thuật Việt Nam,52210104,Đồ họa,,0,,2021
-VUFA,Đại Học Mỹ Thuật Việt Nam,52210103,Hội hoạ,,0,,2021
+VUFA,Đại Học Mỹ Thuật Việt Nam,5210101,"Lý luận, lịch sử và phê bình mỹ thuật",,0,,2021
+VUFA,Đại Học Mỹ Thuật Việt Nam,5210403,Thiết kế đồ họa,,0,,2021
+VUFA,Đại Học Mỹ Thuật Việt Nam,5140222,Sư phạm Mỹ thuật,,0,,2021
+VUFA,Đại Học Mỹ Thuật Việt Nam,5210105,Điêu khắc,,0,,2021
+VUFA,Đại Học Mỹ Thuật Việt Nam,5210104,Đồ họa,,0,,2021
+VUFA,Đại Học Mỹ Thuật Việt Nam,5210103,Hội hoạ,,0,,2021
 NCTU,Đại học Nam Cần Thơ,7480101,Khoa học máy tính,"A00, A01, D07, A02",16,,2021
 NCTU,Đại học Nam Cần Thơ,7480103,Kỹ thuật phần mềm,"A00, A01, D07, A02",16,,2021
 NCTU,Đại học Nam Cần Thơ,7510605,Logistics và Quản lý chuỗi cung ứng,"A00, A01, D01, D07",16,,2021
@@ -2899,19 +2899,19 @@ UFLS,Đại Học Ngoại Ngữ – Đại Học Đà Nẵng,7220201,Ngôn ngữ
 UFLS,Đại Học Ngoại Ngữ – Đại Học Đà Nẵng,7310608,Đông phương học,DGNL,802,,2021
 UFLS,Đại Học Ngoại Ngữ – Đại Học Đà Nẵng,7220204,Ngôn ngữ Trung Quốc,DGNL,824,,2021
 UFLS,Đại Học Ngoại Ngữ – Đại Học Đà Nẵng,7220210,Ngôn ngữ Hàn Quốc,DGNL,829,,2021
-UFLS,Đại Học Ngoại Ngữ – Đại Học Đà Nẵng,7220209,Ngôn ngữ Nhật,XDHB,856,,2021
-ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220211,Ngôn ngữ Ả Rập,"D01, D90, D78",34,Điểm thi TN THPT,2021
-ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220202,Ngôn ngữ Nga,"D01, D90, D78, D02",35.19,Điểm thi TN THPT,2021
-ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7140236,Sư phạm Tiếng Nhật,"D01, D90, D78, D06",37.33,Điểm thi TN THPT,2021
-ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7140237,Sư phạm Tiếng Hàn Quốc,"D01, D90, D78",37.7,Điểm thi TN THPT,2021
-ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7140234,Sư phạm Tiếng Trung Quốc,"D01, D90, D78, D04",38.32,Điểm thi TN THPT,2021
-ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7140231,Sư phạm Tiếng Anh,"D01, D90, D78",38.45,Điểm thi TN THPT,2021
-ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220203,Ngôn ngữ Pháp,"D01, D90, D78, D03",35.77,Chất lượng caoĐiểm thi TN THPT,2021
-ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220205,Ngôn ngữ Đức,"D01, D90, D78, D05",35.92,Chất lượng caoĐiểm thi TN THPT,2021
-ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220209,Ngôn ngữ Nhật,"D01, D90, D78, D06",36.53,Chất lượng caoĐiểm thi TN THPT,2021
-ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220210,Ngôn ngữ Hàn Quốc,"D01, D90, D78",36.83,Chất lượng caoĐiểm thi TN THPT,2021
-ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220201,Ngôn ngữ Anh,"D01, D90, D78",36.9,Chất lượng caoĐiểm thi TN THPT,2021
-ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220204,Ngôn ngữ Trung Quốc,"D01, D90, D78, D04",37.13,Chất lượng caoĐiểm thi TN THPT,2021
+UFLS,Đại Học Ngoại Ngữ – Đại Học Đà Nẵng,7220209,Ngôn ngữ Nhật,DGNL,856,,2021
+ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220211,Ngôn ngữ Ả Rập,"D01, D90, D78",34,Điểm thi TN THPT (môn ngoại ngữ nhân hệ số 2),2021
+ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220202,Ngôn ngữ Nga,"D01, D90, D78, D02",35.19,Điểm thi TN THPT (môn ngoại ngữ nhân hệ số 2),2021
+ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7140236,Sư phạm Tiếng Nhật,"D01, D90, D78, D06",37.33,Điểm thi TN THPT (môn ngoại ngữ nhân hệ số 2),2021
+ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7140237,Sư phạm Tiếng Hàn Quốc,"D01, D90, D78",37.7,Điểm thi TN THPT (môn ngoại ngữ nhân hệ số 2),2021
+ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7140234,Sư phạm Tiếng Trung Quốc,"D01, D90, D78, D04",38.32,Điểm thi TN THPT (môn ngoại ngữ nhân hệ số 2),2021
+ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7140231,Sư phạm Tiếng Anh,"D01, D90, D78",38.45,Điểm thi TN THPT (môn ngoại ngữ nhân hệ số 2),2021
+ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220203,Ngôn ngữ Pháp,"D01, D90, D78, D03",35.77,Chất lượng caoĐiểm thi TN THPT (môn ngoại ngữ nhân hệ số 2),2021
+ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220205,Ngôn ngữ Đức,"D01, D90, D78, D05",35.92,Chất lượng caoĐiểm thi TN THPT (môn ngoại ngữ nhân hệ số 2),2021
+ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220209,Ngôn ngữ Nhật,"D01, D90, D78, D06",36.53,Chất lượng caoĐiểm thi TN THPT (môn ngoại ngữ nhân hệ số 2),2021
+ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220210,Ngôn ngữ Hàn Quốc,"D01, D90, D78",36.83,Chất lượng caoĐiểm thi TN THPT (môn ngoại ngữ nhân hệ số 2),2021
+ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220201,Ngôn ngữ Anh,"D01, D90, D78",36.9,Chất lượng caoĐiểm thi TN THPT (môn ngoại ngữ nhân hệ số 2),2021
+ULIS,Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội,7220204,Ngôn ngữ Trung Quốc,"D01, D90, D78, D04",37.13,Chất lượng caoĐiểm thi TN THPT (môn ngoại ngữ nhân hệ số 2),2021
 HUFLIT,Đại Học Ngoại Ngữ – Tin Học TPHCM,7810103,Quản trị dịch vụ du lịch và lữ hành,"A01, D01, D14, D15",21,Tiếng Anh nhân đôiĐiểm thi TN THPT,2021
 HUFLIT,Đại Học Ngoại Ngữ – Tin Học TPHCM,7810201,Quản trị khách sạn,"A01, D01, D14, D15",21,Tiếng Anh nhân đôiĐiểm thi TN THPT,2021
 HUFLIT,Đại Học Ngoại Ngữ – Tin Học TPHCM,7340101,Quản trị kinh doanh,"A01, D01, D07, D11",29,Tiếng Anh nhân đôiĐiểm thi TN THPT,2021
@@ -3001,7 +3001,6 @@ NTTU,Đại Học Nguyễn Tất Thành,7510205,Công nghệ kỹ thuật ô tô
 NTTU,Đại Học Nguyễn Tất Thành,7340122,Thương mại điện tử,XDHB,6,,2021
 NTTU,Đại Học Nguyễn Tất Thành,7540101,Công nghệ thực phẩm,XDHB,6,,2021
 NTTU,Đại Học Nguyễn Tất Thành,7580108,Thiết kế nội thất,XDHB,6,,2021
-NTTU,Đại Học Nguyễn Tất Thành,7580108,Thiết kế nội thất,DGNL,6,,2021
 NTTU,Đại Học Nguyễn Tất Thành,7810201,Quản trị khách sạn,XDHB,6,,2021
 NTTU,Đại Học Nguyễn Tất Thành,7340404,Quản trị nhân lực,XDHB,6,,2021
 NTTU,Đại Học Nguyễn Tất Thành,7220204,Ngôn ngữ Trung Quốc,XDHB,6,,2021
@@ -3141,7 +3140,7 @@ NTU,Đại Học Nha Trang,7520115,Công nghệ Kỹ thuật Nhiệt (Cơ điệ
 NTU,Đại Học Nha Trang,7520103,Kỹ thuật cơ khí,DGNL,600,,2021
 NTU,Đại Học Nha Trang,7510202,Công nghệ chế tạo máy,DGNL,600,,2021
 NTU,Đại Học Nha Trang,7520116,Kỹ thuật cơ khí,DGNL,600,,2021
-NTU,Đại Học Nha Trang,7620303,Khoa học thủy sản,"A00, B00, A01, D07",600,,2021
+NTU,Đại Học Nha Trang,7620303,Khoa học thủy sản,DGNL,600,,2021
 NTU,Đại Học Nha Trang,7810103P,Quản trị dịch vụ du lịch và lữ hành,DGNL,650,,2021
 NTU,Đại Học Nha Trang,7540105,Công nghệ chế biến thuỷ sản,DGNL,650,,2021
 NTU,Đại Học Nha Trang,7340405,Hệ thống thông tin quản lý,DGNL,650,,2021
@@ -3768,8 +3767,8 @@ HNUE,Đại Học Sư Phạm Hà Nội,7440112A,Hoá học,"A00, XDHB",77.45,"To
 HNUE,Đại Học Sư Phạm Hà Nội,7140212B,Sư phạm Hóa học,"D07, XDHB",78.7,"Toán≥7,5, Anh≥7,5, Hóa≥8,0Học bạ",2021
 HNUE,Đại Học Sư Phạm Hà Nội,7460101B,Toán học,"A00, XDHB",28.25,Toán: áp dụng với học sinh trường chuyênHọc bạ,2021
 HNUE,Đại Học Sư Phạm Hà Nội,7140209B,Sư phạm Toán học,"A00, XDHB",29.8,Toán: áp dụng với học sinh trường chuyên.dạy bằng tiếng AnhHọc bạ,2021
-HNUE,Đại Học Sư Phạm Hà Nội,7220201,Ngôn ngữ Anh,"D01, XDHB",101.6,"Toán, Văn, Anh (nhân đôi: áp dụng cho thí sinh có chứng chỉ ngoại ngữ)Học bạ",2021
-HNUE,Đại Học Sư Phạm Hà Nội,7140231,Sư phạm Tiếng Anh,"D01, XDHB",105.8,"Toán, Văn, Anh (nhân đôi): áp dụng với học sinh trường chuyênHọc bạ",2021
+HNUE,Đại Học Sư Phạm Hà Nội,7220201,Ngôn ngữ Anh,"D01, XDHB",101.6,"tổng điểm TBCCN lớp 10, 11, 12 của các môn Toán, Văn, Anh (nhân đôi: áp dụng cho thí sinh có chứng chỉ ngoại ngữ)Học bạ",2021
+HNUE,Đại Học Sư Phạm Hà Nội,7140231,Sư phạm Tiếng Anh,"D01, XDHB",105.8,"tổng điểm TBCCN lớp 10, 11, 12 của các môn Toán, Văn, Anh (nhân đôi): áp dụng với học sinh trường chuyênHọc bạ",2021
 HNUE,Đại Học Sư Phạm Hà Nội,7480201A,Công nghệ thông tin,"A00, XDHB",61.65,"Toán, Lí, HóaHọc bạ",2021
 HNUE,Đại Học Sư Phạm Hà Nội,7420101B,Sinh học,"B00, XDHB",24.95,Sinh≥7Học bạ,2021
 HNUE,Đại Học Sư Phạm Hà Nội,7140218C,Sư phạm Lịch sử,C00,71.25,"Học bạVă, Sử, Địa",2021
@@ -4288,8 +4287,8 @@ TTU,Đại học Tân Trào,7310104,Kinh tế,"A00, A01, D01",15,,2021
 TTU,Đại học Tân Trào,7620205,Lâm sinh,"B00, B08, A02",15,,2021
 TTU,Đại học Tân Trào,7420203,Sinh học ứng dụng,"A00, B00, A01",15,,2021
 TTU,Đại học Tân Trào,7140202,Giáo dục Tiểu học,"A00, D01, C00",19,,2021
-TTU,Đại học Tân Trào,71140209,Sư phạm Toán học,"A00, B00, A01",19,,2021
-TTU,Đại học Tân Trào,71140213,Sư phạm Sinh học,"A00, B00, B04",19,,2021
+TTU,Đại học Tân Trào,7140209,Sư phạm Toán học,"A00, B00, A01",19,,2021
+TTU,Đại học Tân Trào,7140213,Sư phạm Sinh học,"A00, B00, B04",19,,2021
 TTU,Đại học Tân Trào,7140201,Giáo dục Mầm non,"M00, M05, M07",19,,2021
 TTU,Đại học Tân Trào,7720301,Điều dưỡng,"B00, B03, D07, C08",19,,2021
 TTU,Đại học Tân Trào,7720201,Dược học,"A00, B00, D07, C05",21,,2021
@@ -4644,8 +4643,8 @@ TMU,Đại Học Thương Mại,TM12,Kinh tế,"A00, A01, D01",22,Điểm thi TN
 TMU,Đại Học Thương Mại,TM24,Quản trị khách sạn,"A00, D01, D07",22,Điểm thi TN THPT,2021
 TMU,Đại Học Thương Mại,TM26,Hệ thống thông tin quản lý,"A00, A01, D01, D07",22,Điểm thi TN THPT,2021
 TMU,Đại Học Thương Mại,TM17,Thương mại điện tử,"A00, A01, D01",22.7,Điểm thi TN THPT,2021
-TMU,Đại Học Thương Mại,TM03,Quản trị dịch vụ du lịch và lữ hành,"A00, A01, D01",22,Điểm thi TN THPT,2021
-TMU,Đại Học Thương Mại,TM02,Quản trị khách sạn,"A00, A01, D01",22,Điểm thi TN THPT,2021
+TMU,Đại Học Thương Mại,TM25,Quản trị dịch vụ du lịch và lữ hành,"A00, A01, D01",22,Điểm thi TN THPT,2021
+TMU,Đại Học Thương Mại,TM31,Quản trị khách sạn,"A00, A01, D01",22,Điểm thi TN THPT,2021
 TMU,Đại Học Thương Mại,TM01,Quản trị kinh doanh,"A00, A01, D01",22,Điểm thi TN THPT,2021
 TMU,Đại Học Thương Mại,TM13,Kinh tế,"A00, A01, D01",22,Điểm thi TN THPT,2021
 TMU,Đại Học Thương Mại,TM25,Quản trị dịch vụ du lịch và lữ hành,"A01, D01, D07",22,Điểm thi TN THPT,2021
@@ -4660,8 +4659,8 @@ TMU,Đại Học Thương Mại,TM12,Kinh tế,"A00, A01, D01, XDHB",25,Học b�
 TMU,Đại Học Thương Mại,TM24,Quản trị khách sạn,"A00, D01, D07, XDHB",25,Học bạ,2021
 TMU,Đại Học Thương Mại,TM26,Hệ thống thông tin quản lý,"A00, A01, D01, D07, XDHB",25,Học bạ,2021
 TMU,Đại Học Thương Mại,TM17,Thương mại điện tử,"A00, A01, D01, XDHB",25,Học bạ,2021
-TMU,Đại Học Thương Mại,TM03,Quản trị dịch vụ du lịch và lữ hành,"A00, A01, D01, XDHB",25,Học bạ,2021
-TMU,Đại Học Thương Mại,TM02,Quản trị khách sạn,"A00, A01, D01, XDHB",25,Học bạ,2021
+TMU,Đại Học Thương Mại,TM25,Quản trị dịch vụ du lịch và lữ hành,"A00, A01, D01, XDHB",25,Học bạ,2021
+TMU,Đại Học Thương Mại,TM31,Quản trị khách sạn,"A00, A01, D01, XDHB",25,Học bạ,2021
 TMU,Đại Học Thương Mại,TM01,Quản trị kinh doanh,"A00, A01, D01, XDHB",25,Học bạ,2021
 TMU,Đại Học Thương Mại,TM13,Kinh tế,"A00, A01, D01, XDHB",25,Học bạ,2021
 TMU,Đại Học Thương Mại,TM25,Quản trị dịch vụ du lịch và lữ hành,"A01, D01, D07, XDHB",25,Học bạ,2021
@@ -4680,8 +4679,8 @@ TMU,Đại Học Thương Mại,TM24,Quản trị khách sạn,"A00, D01, D07",2
 TMU,Đại Học Thương Mại,TM21,Quản trị kinh doanh,"A00, A01, D01, D04",26.8,Điểm thi TN THPT (Ngành QTKD - tiếng trung thương mại),2021
 TMU,Đại Học Thương Mại,TM19,Luật,"A00, A01, D01",26.1,Điểm thi TN THPT (ngành luật kinh tế),2021
 TMU,Đại Học Thương Mại,TM20,Quản trị kinh doanh,"A00, A01, D01, D03",26,Điểm thi TN THPT ( ngành QTKD - tiếng Pháp thương mại),2021
-TMU,Đại Học Thương Mại,TM02,Quản trị khách sạn,"A00, A01, D01",26.15,Điểm thi TN THPT,2021
-TMU,Đại Học Thương Mại,TM03,Quản trị dịch vụ du lịch và lữ hành,"A00, A01, D01",26.2,Điểm thi TN THPT,2021
+TMU,Đại Học Thương Mại,TM31,Quản trị khách sạn,"A00, A01, D01",26.15,Điểm thi TN THPT,2021
+TMU,Đại Học Thương Mại,TM25,Quản trị dịch vụ du lịch và lữ hành,"A00, A01, D01",26.2,Điểm thi TN THPT,2021
 TMU,Đại Học Thương Mại,TM14,Tài chính - Ngân hàng,"A00, A01, D01",26.35,Điểm thi TN THPT,2021
 TMU,Đại Học Thương Mại,TM10,Kiểm toán,"A00, A01, D01",26.55,Điểm thi TN THPT,2021
 TMU,Đại Học Thương Mại,TM01,Quản trị kinh doanh,"A00, A01, D01",26.7,Điểm thi TN THPT,2021
@@ -5404,23 +5403,23 @@ AJC,Học Viện Báo Chí – Tuyên Truyền,7320110,Quảng cáo,XDHB,9.27,H�
 AJC,Học Viện Báo Chí – Tuyên Truyền,7220201,Ngôn ngữ Anh,XDHB,9.45,Học bạ,2021
 AJC,Học Viện Báo Chí – Tuyên Truyền,7320105,Truyền thông đại chúng,XDHB,9.5,Học bạ,2021
 AJC,Học Viện Báo Chí – Tuyên Truyền,7320104,Truyền thông đa phương tiện,XDHB,9.63,Học bạ,2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,802,Xuất bản,A16,24.9,Điểm thi TN THPTXuất bản điện tử,2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,802,Xuất bản,C15,25.9,Điểm thi TN THPTXuất bản điện tử,2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,535,Chính trị học,"D01, C15, A16, R22",23.75,Điểm thi TN THPTVăn hóa phát triển,2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,533,Chính trị học,"D01, C15, A16, R22",22,Điểm thi TN THPTTư tưởng Hồ Chí Minh,2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,616,Quan hệ công chúng,D72,35.82,Điểm thi TN THPTTruyền thông Marketing (CLC),2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,616,Quan hệ công chúng,R25,35.82,Điểm thi TN THPTTruyền thông Marketing (CLC),2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,616,Quan hệ công chúng,D01,36.32,Điểm thi TN THPTTruyền thông Marketing (CLC),2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,616,Quan hệ công chúng,R26,37.57,Điểm thi TN THPTTruyền thông Marketing (CLC),2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,616,Quan hệ công chúng,R24,37.57,Điểm thi TN THPTTruyền thông Marketing (CLC),2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,616,Quan hệ công chúng,D78,37.57,Điểm thi TN THPTTruyền thông Marketing (CLC),2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,538,Chính trị học,"D01, C15, A16, R22",24.75,Điểm thi TN THPTTruyền thông chính sách,2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,610,Quan hệ quốc tế,D72,35.45,Điểm thi TN THPTThông tin đối ngoại,2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,610,Quan hệ quốc tế,R25,35.45,Điểm thi TN THPTThông tin đối ngoại,2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,610,Quan hệ quốc tế,D01,35.95,Điểm thi TN THPTThông tin đối ngoại,2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,610,Quan hệ quốc tế,R24,35.95,Điểm thi TN THPTThông tin đối ngoại,2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,610,Quan hệ quốc tế,D78,36.95,Điểm thi TN THPTThông tin đối ngoại,2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,610,Quan hệ quốc tế,R26,36.95,Điểm thi TN THPTThông tin đối ngoại,2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,802,Xuất bản,A16,24.9,Thang 40. Điểm thi TN THPTXuất bản điện tử,2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,802,Xuất bản,C15,25.9,Thang 40. Điểm thi TN THPTXuất bản điện tử,2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,535,Chính trị học,"D01, C15, A16, R22",23.75,Thang 40. Điểm thi TN THPTVăn hóa phát triển,2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,533,Chính trị học,"D01, C15, A16, R22",22,Thang 40. Điểm thi TN THPTTư tưởng Hồ Chí Minh,2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,616,Quan hệ công chúng,D72,35.82,Thang 40. Điểm thi TN THPTTruyền thông Marketing (CLC),2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,616,Quan hệ công chúng,R25,35.82,Thang 40. Điểm thi TN THPTTruyền thông Marketing (CLC),2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,616,Quan hệ công chúng,D01,36.32,Thang 40. Điểm thi TN THPTTruyền thông Marketing (CLC),2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,616,Quan hệ công chúng,R26,37.57,Thang 40. Điểm thi TN THPTTruyền thông Marketing (CLC),2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,616,Quan hệ công chúng,R24,37.57,Thang 40. Điểm thi TN THPTTruyền thông Marketing (CLC),2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,616,Quan hệ công chúng,D78,37.57,Thang 40. Điểm thi TN THPTTruyền thông Marketing (CLC),2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,538,Chính trị học,"D01, C15, A16, R22",24.75,Thang 40. Điểm thi TN THPTTruyền thông chính sách,2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,610,Quan hệ quốc tế,D72,35.45,Thang 40. Điểm thi TN THPTThông tin đối ngoại,2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,610,Quan hệ quốc tế,R25,35.45,Thang 40. Điểm thi TN THPTThông tin đối ngoại,2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,610,Quan hệ quốc tế,D01,35.95,Thang 40. Điểm thi TN THPTThông tin đối ngoại,2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,610,Quan hệ quốc tế,R24,35.95,Thang 40. Điểm thi TN THPTThông tin đối ngoại,2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,610,Quan hệ quốc tế,D78,36.95,Thang 40. Điểm thi TN THPTThông tin đối ngoại,2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,610,Quan hệ quốc tế,R26,36.95,Thang 40. Điểm thi TN THPTThông tin đối ngoại,2021
 AJC,Học Viện Báo Chí – Tuyên Truyền,606,Báo chí,"R21, R12",19,Điểm thi TN THPTQuay phim truyền hình,2021
 AJC,Học Viện Báo Chí – Tuyên Truyền,606,Báo chí,"R13, R11",19,Điểm thi TN THPTQuay phim truyền hình,2021
 AJC,Học Viện Báo Chí – Tuyên Truyền,606,Báo chí,R18,19.75,Điểm thi TN THPTQuay phim truyền hình,2021
@@ -5429,24 +5428,24 @@ AJC,Học Viện Báo Chí – Tuyên Truyền,527,Kinh tế,"D01, R22",25.48,Đ
 AJC,Học Viện Báo Chí – Tuyên Truyền,527,Kinh tế,C15,25.98,Điểm thi TN THPTQuản lý kinh tế,2021
 AJC,Học Viện Báo Chí – Tuyên Truyền,530,Chính trị học,"D01, R22",24.15,Điểm thi TN THPTQuản lý hoạt động tư tưởng - văn hóa,2021
 AJC,Học Viện Báo Chí – Tuyên Truyền,537,Quản lý nhà nước,"D01, C15, A16, R22",24,Điểm thi TN THPTQuản lý hành chính nhà nước,2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,614,Quan hệ quốc tế,R25,35.42,Điểm thi TN THPTQuan hệ quốc tế và Truyền thông toàn cầu (CLC),2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,614,Quan hệ quốc tế,D72,35.42,Điểm thi TN THPTQuan hệ quốc tế và Truyền thông toàn cầu (CLC),2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,614,Quan hệ quốc tế,D01,35.92,Điểm thi TN THPTQuan hệ quốc tế và Truyền thông toàn cầu (CLC),2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,614,Quan hệ quốc tế,R24,35.92,Điểm thi TN THPTQuan hệ quốc tế và Truyền thông toàn cầu (CLC),2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,614,Quan hệ quốc tế,D78,36.92,Điểm thi TN THPTQuan hệ quốc tế và Truyền thông toàn cầu (CLC),2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,614,Quan hệ quốc tế,R26,36.92,Điểm thi TN THPTQuan hệ quốc tế và Truyền thông toàn cầu (CLC),2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,615,Quan hệ công chúng,R25,36.32,Điểm thi TN THPTQuan hệ công chúng chuyên nghiệp,2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,615,Quan hệ công chúng,D72,36.32,Điểm thi TN THPTQuan hệ công chúng chuyên nghiệp,2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,615,Quan hệ công chúng,D01,36.82,Điểm thi TN THPTQuan hệ công chúng chuyên nghiệp,2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,615,Quan hệ công chúng,R24,36.82,Điểm thi TN THPTQuan hệ công chúng chuyên nghiệp,2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,615,Quan hệ công chúng,D78,38.07,Điểm thi TN THPTQuan hệ công chúng chuyên nghiệp,2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,615,Quan hệ công chúng,R26,38.07,Điểm thi TN THPTQuan hệ công chúng chuyên nghiệp,2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,611,Quan hệ quốc tế,D72,35.35,Điểm thi TN THPTQuan hệ chính trị và Truyền thông Quốc tế,2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,611,Quan hệ quốc tế,R25,35.35,Điểm thi TN THPTQuan hệ chính trị và Truyền thông Quốc tế,2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,611,Quan hệ quốc tế,D01,35.85,Điểm thi TN THPTQuan hệ chính trị và Truyền thông Quốc tế,2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,611,Quan hệ quốc tế,R24,35.85,Điểm thi TN THPTQuan hệ chính trị và Truyền thông Quốc tế,2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,611,Quan hệ quốc tế,D78,36.85,Điểm thi TN THPTQuan hệ chính trị và Truyền thông Quốc tế,2021
-AJC,Học Viện Báo Chí – Tuyên Truyền,611,Quan hệ quốc tế,R26,36.85,Điểm thi TN THPTQuan hệ chính trị và Truyền thông Quốc tế,2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,614,Quan hệ quốc tế,R25,35.42,Thang 40. Điểm thi TN THPTQuan hệ quốc tế và Truyền thông toàn cầu (CLC),2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,614,Quan hệ quốc tế,D72,35.42,Thang 40. Điểm thi TN THPTQuan hệ quốc tế và Truyền thông toàn cầu (CLC),2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,614,Quan hệ quốc tế,D01,35.92,Thang 40. Điểm thi TN THPTQuan hệ quốc tế và Truyền thông toàn cầu (CLC),2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,614,Quan hệ quốc tế,R24,35.92,Thang 40.  Điểm thi TN THPTQuan hệ quốc tế và Truyền thông toàn cầu (CLC),2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,614,Quan hệ quốc tế,D78,36.92,Thang 40. Điểm thi TN THPTQuan hệ quốc tế và Truyền thông toàn cầu (CLC),2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,614,Quan hệ quốc tế,R26,36.92,Thang 40. Điểm thi TN THPTQuan hệ quốc tế và Truyền thông toàn cầu (CLC),2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,615,Quan hệ công chúng,R25,36.32,Thang 40. Điểm thi TN THPTQuan hệ công chúng chuyên nghiệp,2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,615,Quan hệ công chúng,D72,36.32,Thang 40. Điểm thi TN THPTQuan hệ công chúng chuyên nghiệp,2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,615,Quan hệ công chúng,D01,36.82,Thang 40. Điểm thi TN THPTQuan hệ công chúng chuyên nghiệp,2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,615,Quan hệ công chúng,R24,36.82,Thang 40. Điểm thi TN THPTQuan hệ công chúng chuyên nghiệp,2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,615,Quan hệ công chúng,D78,38.07,Thang 40. Điểm thi TN THPTQuan hệ công chúng chuyên nghiệp,2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,615,Quan hệ công chúng,R26,38.07,Thang 40. Điểm thi TN THPTQuan hệ công chúng chuyên nghiệp,2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,611,Quan hệ quốc tế,D72,35.35,Thang 40. Điểm thi TN THPTQuan hệ chính trị và Truyền thông Quốc tế,2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,611,Quan hệ quốc tế,R25,35.35,Thang 40. Điểm thi TN THPTQuan hệ chính trị và Truyền thông Quốc tế,2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,611,Quan hệ quốc tế,D01,35.85,Thang 40. Điểm thi TN THPTQuan hệ chính trị và Truyền thông Quốc tế,2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,611,Quan hệ quốc tế,R24,35.85,Thang 40. Điểm thi TN THPTQuan hệ chính trị và Truyền thông Quốc tế,2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,611,Quan hệ quốc tế,D78,36.85,Thang 40. Điểm thi TN THPTQuan hệ chính trị và Truyền thông Quốc tế,2021
+AJC,Học Viện Báo Chí – Tuyên Truyền,611,Quan hệ quốc tế,R26,36.85,Thang 40. Điểm thi TN THPTQuan hệ chính trị và Truyền thông Quốc tế,2021
 AJC,Học Viện Báo Chí – Tuyên Truyền,528,Kinh tế,A16,24.3,Điểm thi TN THPTKinh tế và Quản lý (chất lượng cao),2021
 AJC,Học Viện Báo Chí – Tuyên Truyền,528,Kinh tế,"D01, R22",24.8,Điểm thi TN THPTKinh tế và Quản lý (chất lượng cao),2021
 AJC,Học Viện Báo Chí – Tuyên Truyền,528,Kinh tế,C15,25.3,Điểm thi TN THPTKinh tế và Quản lý (chất lượng cao),2021
@@ -5871,7 +5870,7 @@ HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7310107,Thống kê kinh t�
 HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7349001,Tài chính - Ngân hàng,"A00, D01, D90, D03",17,Điểm thi TN THPT,2021
 HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7340121,Kinh doanh thương mại,"A00, A01, D01, C15",17,Điểm thi TN THPT,2021
 HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7340404,Quản trị nhân lực,"A00, A01, D01, C15",17,Điểm thi TN THPT,2021
-HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7430302,Kiểm toán,"A00, A01, D01, C15",17,Điểm thi TN THPT,2021
+HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7340302,Kiểm toán,"A00, A01, D01, C15",17,Điểm thi TN THPT,2021
 HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7310101,Kinh tế,"A00, A01, D01, C15",18,Điểm thi TN THPT,2021
 HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7340122,Thương mại điện tử,"A00, A01, D01, C15",20,Điểm thi TN THPT,2021
 HCE-HU,Đại Học Kinh Tế – Đại Học Huế,7340301,Kế toán,"A00, A01, D01, A16",20,Điểm thi TN THPT,2021
@@ -6175,7 +6174,7 @@ VNUHCM - UEL,UEL - Đại học Kinh Tế – Luật – Đại Học Quốc Gia
 VNUHCM - UEL,UEL - Đại học Kinh Tế – Luật – Đại Học Quốc Gia TPHCM,7340122_411,Thương mại điện tử,"A00, A01, D01",27.55,Điểm thi TN THPT,2021
 VNUHCM - UEL,UEL - Đại học Kinh Tế – Luật – Đại Học Quốc Gia TPHCM,7340115_410,Marketing,"A00, A01, D01",27.55,Điểm thi TN THPT,2021
 VNUHCM - UEL,UEL - Đại học Kinh Tế – Luật – Đại Học Quốc Gia TPHCM,7340120_408,Kinh doanh quốc tế,"A00, A01, D01",27.65,Điểm thi TN THPT,2021
-VNUHCM - UIT,UIT - Đại Học Công Nghệ Thông Tin – Đại Học Quốc Gia TPHCM,7480106_IOT,Kỹ thuật máy tính,"A00, A01, D01",845,Hướng hệ thống nhúng và IOT,2021
+VNUHCM - UIT,UIT - Đại Học Công Nghệ Thông Tin – Đại Học Quốc Gia TPHCM,7480106_IOT,Kỹ thuật máy tính,DGNL,845,Hướng hệ thống nhúng và IOT,2021
 VNUHCM - UIT,UIT - Đại Học Công Nghệ Thông Tin – Đại Học Quốc Gia TPHCM,7480104_TT,Hệ thống thông tin,"A00, A01, D01",25.1,Điểm thi TN THPT,2021
 VNUHCM - UIT,UIT - Đại Học Công Nghệ Thông Tin – Đại Học Quốc Gia TPHCM,7480102_CLCA,Mạng máy tính và Truyền thông dữ liệu,"A00, A01, D01",25.6,Điểm thi TN THPT,2021
 VNUHCM - UIT,UIT - Đại Học Công Nghệ Thông Tin – Đại Học Quốc Gia TPHCM,7480201_CLCN,Công nghệ thông tin,"A00, A01, D01",25.85,Điểm thi TN THPT,2021
