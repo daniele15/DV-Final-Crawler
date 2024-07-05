@@ -776,7 +776,7 @@ HAUI,Đại Học Công Nghiệp Hà Nội,7340404,Quản trị nhân lực,"A00
 HAUI,Đại Học Công Nghiệp Hà Nội,7810101,Du lịch,"D01, C00, D14",24.25,"tcp1 Ngữ văn >8.5, tcp2 Ngữ văn =8.5, nv<=4",2020
 HAUI,Đại Học Công Nghiệp Hà Nội,7480103,Kỹ thuật phần mềm,"A00, A01",24.3,"TCP1: Toán > 8.8, TCp2: Toán = 8.8, NV<=1",2020
 HAUI,Đại Học Công Nghiệp Hà Nội,7510605,Logistics và Quản lý chuỗi cung ứng,"A00, D01",24.4,"TCP1: Toán > 8.4, TCP2: Toán =8.4, NV<=5",2020
-HAUI,Đại Học Công Nghiệp Hà Nội,7480101,KINH DOANH NÔNG NGHIỆP,A00,24.7,"TCP1: Toán >8.2, TCP2: Toán = 8.2, NV<=5",2020
+HAUI,Đại Học Công Nghiệp Hà Nội,7480101,Kinh doanh nông nghiệp,A00,24.7,"TCP1: Toán >8.2, TCP2: Toán = 8.2, NV<=5",2020
 HAUI,Đại Học Công Nghiệp Hà Nội,7340115,Marketing,"A00, A01, D01",24.9,"TCP1: Toán >8.4, TCP2 Toán =8.4, NV<=7",2020
 HAUI,Đại Học Công Nghiệp Hà Nội,7510205,Công nghệ kỹ thuật ô tô,"A00, A01",25.1,"tcp1: Toán >8.6. tcp2 Toán =8.6, NV<=2",2020
 HAUI,Đại Học Công Nghiệp Hà Nội,7510203,Công nghệ kỹ thuật cơ điện tử,"A00, A01",25.3,"TCP1: Toán >8.8, tcp2 Toán =8.8, NV<=7",2020
@@ -1767,7 +1767,7 @@ HUST,Đại Học Bách Khoa Hà Nội,ME-GU,Cơ khí - Chế tạo máy,"A00, A
 HUST,Đại Học Bách Khoa Hà Nội,MI1x,Khoa học máy tính,A19,23.9,,2020
 HUST,Đại Học Bách Khoa Hà Nội,ME-GU,Cơ khí - Chế tạo máy,"A00, A01, D07",23.9,Hợp tác với đại học Griffith (Đức),2020
 HUST,Đại Học Bách Khoa Hà Nội,FL2,Tiếng Anh chuyên nghiệp quốc tế,D01,24.1,,2020
-HUST,Đại Học Bách Khoa Hà Nội,FL1,Khoa học kỹ thuật và Công nghệ,D01,24.1,,2020
+HUST,Đại Học Bách Khoa Hà Nội,FL1,Tiếng Anh Khoa học kỹ thuật và Công nghệ,D01,24.1,,2020
 HUST,Đại Học Bách Khoa Hà Nội,CH2,Hoá học,"A00, B00, D07",24.16,,2020
 HUST,Đại Học Bách Khoa Hà Nội,ME-LUH,Cơ điện tử,"A00, A01, D07",24.2,Hợp tác với ĐH Leibniz Hannover (Đức); Điểm thi TN THPT,2020
 HUST,Đại Học Bách Khoa Hà Nội,EE2x,Kỹ thuật Điều khiển - Tự động hóa,A19,24.41,,2020
@@ -1795,7 +1795,7 @@ HUST,Đại Học Bách Khoa Hà Nội,EM-E14,Logistics và Quản lý chuỗi c
 HUST,Đại Học Bách Khoa Hà Nội,BF-E12,Kỹ thuật Thực phẩm,"A00, B00, D07",25.94,(CT tiên tiến),2020
 HUST,Đại Học Bách Khoa Hà Nội,PH1,Vật lý kỹ thuật,"A00, A01",26.18,,2020
 HUST,Đại Học Bách Khoa Hà Nội,BF1,Kỹ thuật Sinh học,"A00, B00, D07",26.2,,2020
-HUST,Đại Học Bách Khoa Hà Nội,IT1x,KINH DOANH NÔNG NGHIỆP,A19,26.27,,2020
+HUST,Đại Học Bách Khoa Hà Nội,IT1x,Kinh doanh nông nghiệp,A19,26.27,,2020
 HUST,Đại Học Bách Khoa Hà Nội,TE2,Kỹ thuật cơ khí,"A00, A01",26.46,Kỹ thuật cơ khí động lực,2020
 HUST,Đại Học Bách Khoa Hà Nội,CH-E11,Kỹ thuật Hóa dược,"A00, B00, D07",26.5,,2020
 HUST,Đại Học Bách Khoa Hà Nội,ET-E5,Kỹ thuật y sinh,"A00, A01",26.5,,2020
@@ -1826,7 +1826,7 @@ HUST,Đại Học Bách Khoa Hà Nội,EE2,Kỹ thuật Điều khiển - Tự �
 HUST,Đại Học Bách Khoa Hà Nội,IT-E7,Công nghệ thông tin,"A00, A01",28.38,Golbal ICT,2020
 HUST,Đại Học Bách Khoa Hà Nội,IT-E10,Khoa học dữ liệu và Trí tuệ nhân tạo,"A00, A01",28.65,,2020
 HUST,Đại Học Bách Khoa Hà Nội,IT2,Kỹ thuật máy tính,"A00, A01",28.65,,2020
-HUST,Đại Học Bách Khoa Hà Nội,IT1,KINH DOANH NÔNG NGHIỆP,"A00, A01",29.04,,2020
+HUST,Đại Học Bách Khoa Hà Nội,IT1,Kinh doanh nông nghiệp,"A00, A01",29.04,,2020
 HUTECH,Đại học Công Nghệ TPHCM,7220204,Ngôn ngữ Trung Quốc,DGNL,0,,2020
 HUTECH,Đại học Công Nghệ TPHCM,7220210,Ngôn ngữ Hàn Quốc,A01,0,,2020
 HUTECH,Đại học Công Nghệ TPHCM,7220210,Ngôn ngữ Hàn Quốc,"A00, D01, C00, D15",0,,2020
@@ -2036,7 +2036,7 @@ ICTU,Đại học Công Nghệ Thông Tin và Truyền Thông – Đại Học T
 ICTU,Đại học Công Nghệ Thông Tin và Truyền Thông – Đại Học Thái Nguyên,7510302_FCU,Công nghệ kỹ thuật điện tử - viễn thông,"A00, D01, C04, C01",18,Chương trình liên kết quốc tế,2020
 ICTU,Đại học Công Nghệ Thông Tin và Truyền Thông – Đại Học Thái Nguyên,7340122_TD,Thương mại điện tử,"A00, D01, C00, C04",18,Chương trình đào tạo trọng điểm,2020
 ICTU,Đại học Công Nghệ Thông Tin và Truyền Thông – Đại Học Thái Nguyên,7210403,Thiết kế đồ họa,"D01, D15, C04, D10",18,Chương trình đại trà,2020
-ICTU,Đại học Công Nghệ Thông Tin và Truyền Thông – Đại Học Thái Nguyên,7480101,KINH DOANH NÔNG NGHIỆP,"A00, A01, D01, C01",18,Chương trình đại trà,2020
+ICTU,Đại học Công Nghệ Thông Tin và Truyền Thông – Đại Học Thái Nguyên,7480101,Kinh doanh nông nghiệp,"A00, A01, D01, C01",18,Chương trình đại trà,2020
 ICTU,Đại học Công Nghệ Thông Tin và Truyền Thông – Đại Học Thái Nguyên,7480201_CLC,Công nghệ thông tin,"A00, A01",19,Chương trình Chất lượng cao,2020
 ICTU,Đại học Công Nghệ Thông Tin và Truyền Thông – Đại Học Thái Nguyên,7480103,Kỹ thuật phần mềm,"A00, A01, D01, C02",19,Chương trình liên kết quốc tế,2020
 ISTNU,Khoa Quốc Tế - Đại Học Thái Nguyên,7850101,Quản lý tài nguyên và môi trường,"B00, D15, D08, D10",15.1,,2020

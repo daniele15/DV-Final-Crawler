@@ -780,7 +780,7 @@ HUC,Đại Học Văn Hóa Hà Nội,7229040B,Văn hoá học,C00,21,Văn hoá t
 HUC,Đại Học Văn Hóa Hà Nội,7220110,Văn học,N00,21,Sáng tác văn học,2018
 HUHA,Đại Học Nội Vụ,7310205-02,Quản lí tài chính công,C20,21,Cơ sở tại Hà Nội,2018
 HUS,Đại Học Khoa Học – Đại Học Huế,7320101,Báo chí,"D01, C00, D15, XDHB",21,Xét học bạ,2018
-HUST,Đại Học Bách Khoa Hà Nội,FL1,Khoa học kỹ thuật và Công nghệ,D01,21,tiếng anh,2018
+HUST,Đại Học Bách Khoa Hà Nội,FL1,Tiếng Anh Khoa học kỹ thuật và Công nghệ,D01,21,tiếng anh,2018
 HUST,Đại Học Bách Khoa Hà Nội,EE1,Kỹ thuật điện,"A00, A01",21,,2018
 HUST,Đại Học Bách Khoa Hà Nội,FL2,Tiếng Anh chuyên nghiệp quốc tế,D01,21,,2018
 IUH,Đại Học Công Nghiệp TPHCM,7380107,Luật,C00,21,Luật kinh tế,2018
@@ -2857,7 +2857,7 @@ SDU,Đại học Sao Đỏ,7540204,"Công nghệ dệt, may","A00, A09, C20, D01
 SDU,Đại học Sao Đỏ,7510205,Công nghệ kỹ thuật ô tô,"A00, A09, C01, D01",15,Điểm chuẩn học bạ: 18 điểm,2018
 SFL,Trường Ngoại Ngữ – Đại Học Thái Nguyên,51140231,Sư phạm Tiếng Anh,"A01, D01, D15, D66",15,Hệ cao đẳng,2018
 SGU,Đại Học Sài Gòn,7440301,Khoa học môi trường,A00,15,,2018
-SIU,Đại Học Quốc Tế Sài Gòn,7480101,Kỹ thuật xây dựng,"A00, A01, D90, D00",15,"gồm các chuyên ngành: Khoa học máy tính, Kỹ thuật phần mềm",2018
+SIU,Đại Học Quốc Tế Sài Gòn,7480101,Khoa học máy tính,"A00, A01, D90, D00",15,"gồm các chuyên ngành: Khoa học máy tính, Kỹ thuật phần mềm",2018
 TBDU,Đại Học Thái Bình Dương,7810101,Du lịch,"D01, C00, C19, C20",15,Hướng dẫn du lịch và lữ hành; Du lịch - Nhà hàng - Khách sạnĐiểm trúng tuyển theo học bạ THPT lấy 18 điểm,2018
 TDMU,Đại học Thủ Dầu Một,7760101,Công tác xã hội,"C00, C14, D14, D78",15,,2018
 TDMU,Đại học Thủ Dầu Một,7310205,Quản lý nhà nước,"A16, C00, C14, D01",15,,2018
@@ -3423,7 +3423,7 @@ SDU,Đại học Sao Đỏ,7220201,Ngôn ngữ Anh,"D01, D14, D15, D66",14,Đi�
 SDU,Đại học Sao Đỏ,7220204,Ngôn ngữ Trung Quốc,"D01, D15, D66, D71",14,Điểm chuẩn học bạ: 18 điểm,2018
 SDU,Đại học Sao Đỏ,7340101,Quản trị kinh doanh,"A00, A09, C01, D01",14,Điểm chuẩn học bạ: 18 điểm,2018
 SDU,Đại học Sao Đỏ,7310630,Việt Nam học,"D01, C00, D15, C20",14,Hướng dẫn Du lịchĐiểm chuẩn học bạ: 18 điểm,2018
-SIU,Đại Học Quốc Tế Sài Gòn,7340101,Kỹ thuật xây dựng,"A00, A01, C00, D00",14,"gồm các chuyên ngành: Khoa học máy tính, Kỹ thuật phần mềm",2018
+SIU,Đại Học Quốc Tế Sài Gòn,7340101,Khoa học máy tính,"A00, A01, C00, D00",14,"gồm các chuyên ngành: Khoa học máy tính, Kỹ thuật phần mềm",2018
 SIU,Đại Học Quốc Tế Sài Gòn,7220201,Ngôn ngữ Anh,"D01, D15, D78, D72",14,,2018
 STU,Đại Học Công Nghệ Sài Gòn,7540101,Công nghệ thực phẩm,"A00, B00, B08, D07",14,,2018
 TBDU,Đại Học Thái Bình Dương,7380101,Luật,"D01, C00, C19, C20",14,Luật Kinh tế - Dân sự; Luật Quốc tế và Ngoại thương; Luật Hình sự và Tội phạm học; Pháp chế - Hành chính - Văn thưĐiểm trúng tuyển theo học bạ THPT lấy 18 điểm,2018
